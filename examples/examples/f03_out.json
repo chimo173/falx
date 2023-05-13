@@ -1,0 +1,307 @@
+[
+    {
+        "Month": "Start",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": 80000
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 80000
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 0
+        }
+    },
+    {
+        "Month": "Apr",
+        "Net Cash Flow": {
+            "ids": [
+                1
+            ],
+            "v": -5003
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 74997
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 80000
+        }
+    },
+    {
+        "Month": "May",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": -16700
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 58297
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 74997
+        }
+    },
+    {
+        "Month": "Jun",
+        "Net Cash Flow": {
+            "ids": [
+                3
+            ],
+            "v": 48802
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 107099
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 58297
+        }
+    },
+    {
+        "Month": "Jul",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": -11198
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 95901
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 107099
+        }
+    },
+    {
+        "Month": "Aug",
+        "Net Cash Flow": {
+            "ids": [
+                5
+            ],
+            "v": -35260
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 60641
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 95901
+        }
+    },
+    {
+        "Month": "Sep",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": 18220
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 78861
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 60641
+        }
+    },
+    {
+        "Month": "Oct",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": -23840
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 55021
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 78861
+        }
+    },
+    {
+        "Month": "Nov",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": 43250
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 98271
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 55021
+        }
+    },
+    {
+        "Month": "Dec",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": -18280
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 79991
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 98271
+        }
+    },
+    {
+        "Month": "Jan",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": 26670
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 106661
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 79991
+        }
+    },
+    {
+        "Month": "Feb",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": 15000
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 121661
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 106661
+        }
+    },
+    {
+        "Month": "Mar",
+        "Net Cash Flow": {
+            "ids": [],
+            "v": 24750
+        },
+        "Net Cash Flow Sum": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 146411
+        },
+        "c": {
+            "ids": [
+                1,
+                3,
+                5
+            ],
+            "v": 121661
+        }
+    }
+]

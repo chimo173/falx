@@ -1,0 +1,41 @@
+[
+    {
+        "Incomplete": {
+            "ids": [
+                0
+            ],
+            "v": 602
+        },
+        "Complete": {
+            "ids": [
+                1
+            ],
+            "v": 9443
+        },
+        "newRatio": {
+            "ids": [
+                0,
+                1
+            ],
+            "v": "HOLE"
+        }
+    },
+    {
+        "Incomplete": {
+            "ids": [
+                2
+            ],
+            "v": 1425
+        },
+        "Complete": {
+            "ids": [],
+            "v": 10250
+        },
+        "newRatio": {
+            "ids": [
+                2
+            ],
+            "v": "HOLE"
+        }
+    }
+]

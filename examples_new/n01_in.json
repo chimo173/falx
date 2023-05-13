@@ -1,0 +1,146 @@
+[
+    {
+        "Date": "09/01/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url1",
+        "Hits": 3
+    },
+    {
+        "Date": "09/01/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url2",
+        "Hits": 5
+    },
+    {
+        "Date": "09/01/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url3",
+        "Hits": 4
+    },
+    {
+        "Date": "09/02/2016",
+        "DayOfWeek": "Friday",
+        "Url": "url1",
+        "Hits": 7
+    },
+    {
+        "Date": "09/02/2016",
+        "DayOfWeek": "Friday",
+        "Url": "url3",
+        "Hits": 6
+    },
+    {
+        "Date": "09/03/2016",
+        "DayOfWeek": "Saturday",
+        "Url": "url2",
+        "Hits": 9
+    },
+    {
+        "Date": "09/03/2016",
+        "DayOfWeek": "Saturday",
+        "Url": "url1",
+        "Hits": 5
+    },
+    {
+        "Date": "09/04/2016",
+        "DayOfWeek": "Sunday",
+        "Url": "url2",
+        "Hits": 6
+    },
+    {
+        "Date": "09/07/2016",
+        "DayOfWeek": "Wednesday",
+        "Url": "url10",
+        "Hits": 4
+    },
+    {
+        "Date": "09/07/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url2",
+        "Hits": 3
+    },
+    {
+        "Date": "09/07/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url4",
+        "Hits": 2
+    },
+    {
+        "Date": "09/07/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url5",
+        "Hits": 3
+    },
+    {
+        "Date": "09/07/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url1",
+        "Hits": 3
+    },
+    {
+        "Date": "09/08/2016",
+        "DayOfWeek": "Friday",
+        "Url": "url1",
+        "Hits": 3
+    },
+    {
+        "Date": "09/08/2016",
+        "DayOfWeek": "Friday",
+        "Url": "url4",
+        "Hits": 3
+    },
+    {
+        "Date": "09/08/2016",
+        "DayOfWeek": "Friday",
+        "Url": "url5",
+        "Hits": 2
+    },
+    {
+        "Date": "09/08/2016",
+        "DayOfWeek": "Friday",
+        "Url": "url8",
+        "Hits": 6
+    },
+    {
+        "Date": "09/09/2016",
+        "DayOfWeek": "Saturday",
+        "Url": "url2",
+        "Hits": 1
+    },
+    {
+        "Date": "09/09/2016",
+        "DayOfWeek": "Saturday",
+        "Url": "url3",
+        "Hits": 2
+    },
+    {
+        "Date": "09/09/2016",
+        "DayOfWeek": "Saturday",
+        "Url": "url5",
+        "Hits": 4
+    },
+    {
+        "Date": "09/09/2016",
+        "DayOfWeek": "Saturday",
+        "Url": "url1",
+        "Hits": 8
+    },
+    {
+        "Date": "09/14/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url1",
+        "Hits": 3
+    },
+    {
+        "Date": "09/147/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url2",
+        "Hits": 2
+    },
+    {
+        "Date": "09/14/2016",
+        "DayOfWeek": "Thursday",
+        "Url": "url3",
+        "Hits": 3
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "Species": "setosa",
+        "group_Petal.Length": {
+            "ids": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "v": 73.1
+        },
+        "share_Petal.Length": {
+            "ids": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "v": 0.1296789072
+        }
+    },
+    {
+        "Species": "versicolor",
+        "group_Petal.Length": {
+            "ids": [],
+            "v": 213.0
+        },
+        "share_Petal.Length": {
+            "ids": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "v": 0.3778605641
+        }
+    },
+    {
+        "Species": "virginica",
+        "group_Petal.Length": {
+            "ids": [],
+            "v": 277.6
+        },
+        "share_Petal.Length": {
+            "ids": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "v": 0.4924605286
+        }
+    }
+]

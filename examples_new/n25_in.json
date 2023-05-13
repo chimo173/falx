@@ -1,0 +1,50 @@
+[
+    {
+        "category_senti": "Positive",
+        "artist_id": "01_artist"
+    },
+    {
+        "category_senti": "Negative",
+        "artist_id": "01_artist"
+    },
+    {
+        "category_senti": "Positive",
+        "artist_id": "02_artist"
+    },
+    {
+        "category_senti": "Negative",
+        "artist_id": "02_artist"
+    },
+    {
+        "category_senti": "Neutral",
+        "artist_id": "02_artist"
+    },
+    {
+        "category_senti": "Negative",
+        "artist_id": "03_artist"
+    },
+    {
+        "category_senti": "Positive",
+        "artist_id": "03_artist"
+    },
+    {
+        "category_senti": "Neutral",
+        "artist_id": "03_artist"
+    },
+    {
+        "category_senti": "Negative",
+        "artist_id": "03_artist"
+    },
+    {
+        "category_senti": "Neutral",
+        "artist_id": "03_artist"
+    },
+    {
+        "category_senti": "Negative",
+        "artist_id": "04_artist"
+    },
+    {
+        "category_senti": "Positive",
+        "artist_id": "04_artist"
+    }
+]

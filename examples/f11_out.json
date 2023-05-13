@@ -1,0 +1,482 @@
+[
+    {
+        "C1": "Q1",
+        "C2": "Targeted",
+        "variable": "North_America",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 56
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Engaged",
+        "variable": "North_America",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 52
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Pitched",
+        "variable": "North_America",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 45
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Adopted",
+        "variable": "North_America",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 36
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Targeted",
+        "variable": "North_America",
+        "value": {
+            "ids": [],
+            "v": 50
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Engaged",
+        "variable": "North_America",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 43
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Pitched",
+        "variable": "North_America",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 39
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Adopted",
+        "variable": "North_America",
+        "value": {
+            "ids": [],
+            "v": 31
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Targeted",
+        "variable": "North_America",
+        "value": {
+            "ids": [],
+            "v": 70
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Engaged",
+        "variable": "North_America",
+        "value": {
+            "ids": [],
+            "v": 55
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Pitched",
+        "variable": "North_America",
+        "value": {
+            "ids": [],
+            "v": 50
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Adopted",
+        "variable": "North_America",
+        "value": {
+            "ids": [],
+            "v": 40
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Targeted",
+        "variable": "EMEA",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 66
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Engaged",
+        "variable": "EMEA",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 65
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Pitched",
+        "variable": "EMEA",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 59
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Adopted",
+        "variable": "EMEA",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 52
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Targeted",
+        "variable": "EMEA",
+        "value": {
+            "ids": [],
+            "v": 56
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Engaged",
+        "variable": "EMEA",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 54
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Pitched",
+        "variable": "EMEA",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 50
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Adopted",
+        "variable": "EMEA",
+        "value": {
+            "ids": [],
+            "v": 42
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Targeted",
+        "variable": "EMEA",
+        "value": {
+            "ids": [],
+            "v": 91
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Engaged",
+        "variable": "EMEA",
+        "value": {
+            "ids": [],
+            "v": 78
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Pitched",
+        "variable": "EMEA",
+        "value": {
+            "ids": [],
+            "v": 72
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Adopted",
+        "variable": "EMEA",
+        "value": {
+            "ids": [],
+            "v": 62
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Targeted",
+        "variable": "APAC",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 48
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Engaged",
+        "variable": "APAC",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 47
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Pitched",
+        "variable": "APAC",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 45
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Adopted",
+        "variable": "APAC",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 38
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Targeted",
+        "variable": "APAC",
+        "value": {
+            "ids": [],
+            "v": 39
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Engaged",
+        "variable": "APAC",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 37
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Pitched",
+        "variable": "APAC",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 35
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Adopted",
+        "variable": "APAC",
+        "value": {
+            "ids": [],
+            "v": 27
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Targeted",
+        "variable": "APAC",
+        "value": {
+            "ids": [],
+            "v": 87
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Engaged",
+        "variable": "APAC",
+        "value": {
+            "ids": [],
+            "v": 75
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Pitched",
+        "variable": "APAC",
+        "value": {
+            "ids": [],
+            "v": 74
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Adopted",
+        "variable": "APAC",
+        "value": {
+            "ids": [],
+            "v": 59
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Targeted",
+        "variable": "LATAM",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 48
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Engaged",
+        "variable": "LATAM",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 48
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Pitched",
+        "variable": "LATAM",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 44
+        }
+    },
+    {
+        "C1": "Q1",
+        "C2": "Adopted",
+        "variable": "LATAM",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 31
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Targeted",
+        "variable": "LATAM",
+        "value": {
+            "ids": [],
+            "v": 43
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Engaged",
+        "variable": "LATAM",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 41
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Pitched",
+        "variable": "LATAM",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 37
+        }
+    },
+    {
+        "C1": "Q2",
+        "C2": "Adopted",
+        "variable": "LATAM",
+        "value": {
+            "ids": [],
+            "v": 26
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Targeted",
+        "variable": "LATAM",
+        "value": {
+            "ids": [],
+            "v": 95
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Engaged",
+        "variable": "LATAM",
+        "value": {
+            "ids": [],
+            "v": 80
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Pitched",
+        "variable": "LATAM",
+        "value": {
+            "ids": [],
+            "v": 73
+        }
+    },
+    {
+        "C1": "Q3",
+        "C2": "Adopted",
+        "variable": "LATAM",
+        "value": {
+            "ids": [],
+            "v": 53
+        }
+    }
+]

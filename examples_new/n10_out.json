@@ -1,0 +1,134 @@
+[
+    {
+        "key": "dealer",
+        "id_v": 0,
+        "female": {
+            "ids": [
+                2
+            ],
+            "v": 3
+        },
+        "male": {
+            "ids": [
+                0
+            ],
+            "v": 1
+        }
+    },
+    {
+        "key": "dealer",
+        "id_v": 1,
+        "female": {
+            "ids": [
+                3
+            ],
+            "v": 4
+        },
+        "male": {
+            "ids": [
+                1
+            ],
+            "v": 2
+        }
+    },
+    {
+        "key": "dealer",
+        "id_v": 2,
+        "female": {
+            "ids": [],
+            "v": 6
+        },
+        "male": {
+            "ids": [],
+            "v": 5
+        }
+    },
+    {
+        "key": "store",
+        "id_v": 3,
+        "female": {
+            "ids": [
+                2
+            ],
+            "v": 33
+        },
+        "male": {
+            "ids": [
+                0
+            ],
+            "v": 11
+        }
+    },
+    {
+        "key": "store",
+        "id_v": 4,
+        "female": {
+            "ids": [
+                3
+            ],
+            "v": 44
+        },
+        "male": {
+            "ids": [
+                1
+            ],
+            "v": 22
+        }
+    },
+    {
+        "key": "store",
+        "id_v": 5,
+        "female": {
+            "ids": [],
+            "v": 66
+        },
+        "male": {
+            "ids": [],
+            "v": 55
+        }
+    },
+    {
+        "key": "transport",
+        "id_v": 6,
+        "female": {
+            "ids": [
+                2
+            ],
+            "v": 30
+        },
+        "male": {
+            "ids": [
+                0
+            ],
+            "v": 10
+        }
+    },
+    {
+        "key": "transport",
+        "id_v": 7,
+        "female": {
+            "ids": [
+                3
+            ],
+            "v": 40
+        },
+        "male": {
+            "ids": [
+                1
+            ],
+            "v": 20
+        }
+    },
+    {
+        "key": "transport",
+        "id_v": 8,
+        "female": {
+            "ids": [],
+            "v": 60
+        },
+        "male": {
+            "ids": [],
+            "v": 50
+        }
+    }
+]

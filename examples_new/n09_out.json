@@ -1,0 +1,47 @@
+[
+    {
+        "Gender": "f",
+        "group2": "A",
+        "Variable": "Other",
+        "mean": {
+            "ids": [
+                1,
+                2
+            ],
+            "v": 0.5880306803
+        }
+    },
+    {
+        "Gender": "f",
+        "group2": "B",
+        "Variable": "Other",
+        "mean": {
+            "ids": [],
+            "v": 0.4240742796
+        }
+    },
+    {
+        "Gender": "m",
+        "group2": "A",
+        "Variable": "IQ",
+        "mean": {
+            "ids": [
+                0,
+                3
+            ],
+            "v": 101.1723394705
+        }
+    },
+    {
+        "Gender": "m",
+        "group2": "A",
+        "Variable": "Other",
+        "mean": {
+            "ids": [
+                0,
+                3
+            ],
+            "v": 0.3976537291
+        }
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "Year": {
+            "ids": [
+                3
+            ],
+            "v": 2004
+        },
+        "StockValue": {
+            "ids": [
+                3
+            ],
+            "v": 0.53
+        },
+        "above": {
+            "ids": [
+                3
+            ],
+            "v": true
+        },
+        "year": {
+            "ids": [
+                3
+            ],
+            "v": false
+        },
+        "comb": {
+            "ids": [
+                3
+            ],
+            "v": "True False"
+        }
+    },
+    {
+        "Year": {
+            "ids": [],
+            "v": 2007
+        },
+        "StockValue": {
+            "ids": [],
+            "v": 0.43
+        },
+        "above": {
+            "ids": [],
+            "v": false
+        },
+        "year": {
+            "ids": [],
+            "v": false
+        },
+        "comb": {
+            "ids": [],
+            "v": "False False"
+        }
+    },
+    {
+        "Year": {
+            "ids": [],
+            "v": 2008
+        },
+        "StockValue": {
+            "ids": [],
+            "v": 0.58
+        },
+        "above": {
+            "ids": [],
+            "v": true
+        },
+        "year": {
+            "ids": [],
+            "v": false
+        },
+        "comb": {
+            "ids": [],
+            "v": "True False"
+        }
+    },
+    {
+        "Year": {
+            "ids": [],
+            "v": 2010
+        },
+        "StockValue": {
+            "ids": [],
+            "v": 0.52
+        },
+        "above": {
+            "ids": [],
+            "v": true
+        },
+        "year": {
+            "ids": [],
+            "v": false
+        },
+        "comb": {
+            "ids": [],
+            "v": "True False"
+        }
+    },
+    {
+        "Year": {
+            "ids": [],
+            "v": 2012
+        },
+        "StockValue": {
+            "ids": [],
+            "v": 0.27
+        },
+        "above": {
+            "ids": [],
+            "v": false
+        },
+        "year": {
+            "ids": [],
+            "v": false
+        },
+        "comb": {
+            "ids": [],
+            "v": "False False"
+        }
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "Country": "Australia",
+        "Total Result": {
+            "ids": [
+                0
+            ],
+            "v": 40492
+        },
+        "variable": "Beans",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 14433
+        }
+    },
+    {
+        "Country": "Canada",
+        "Total Result": {
+            "ids": [
+                1
+            ],
+            "v": 12407
+        },
+        "variable": "Beans",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 0
+        }
+    },
+    {
+        "Country": "France",
+        "Total Result": {
+            "ids": [
+                2
+            ],
+            "v": 15125
+        },
+        "variable": "Beans",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 680
+        }
+    },
+    {
+        "Country": "Germany",
+        "Total Result": {
+            "ids": [
+                3
+            ],
+            "v": 88738
+        },
+        "variable": "Beans",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 29905
+        }
+    },
+    {
+        "Country": "New Zealand",
+        "Total Result": {
+            "ids": [],
+            "v": 4390
+        },
+        "variable": "Beans",
+        "value": {
+            "ids": [],
+            "v": 0
+        }
+    },
+    {
+        "Country": "United Kingdom",
+        "Total Result": {
+            "ids": [
+                5
+            ],
+            "v": 85351
+        },
+        "variable": "Beans",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 5100
+        }
+    },
+    {
+        "Country": "United States",
+        "Total Result": {
+            "ids": [
+                6
+            ],
+            "v": 90162
+        },
+        "variable": "Beans",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 7163
+        }
+    },
+    {
+        "Country": "Total Result",
+        "Total Result": {
+            "ids": [],
+            "v": 336665
+        },
+        "variable": "Beans",
+        "value": {
+            "ids": [],
+            "v": 57281
+        }
+    },
+    {
+        "Country": "Australia",
+        "Total Result": {
+            "ids": [
+                0
+            ],
+            "v": 40492
+        },
+        "variable": "Broccoli",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 17953
+        }
+    },
+    {
+        "Country": "Canada",
+        "Total Result": {
+            "ids": [
+                1
+            ],
+            "v": 12407
+        },
+        "variable": "Broccoli",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 12407
+        }
+    },
+    {
+        "Country": "France",
+        "Total Result": {
+            "ids": [
+                2
+            ],
+            "v": 15125
+        },
+        "variable": "Broccoli",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 5341
+        }
+    },
+    {
+        "Country": "Germany",
+        "Total Result": {
+            "ids": [
+                3
+            ],
+            "v": 88738
+        },
+        "variable": "Broccoli",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 37197
+        }
+    },
+    {
+        "Country": "New Zealand",
+        "Total Result": {
+            "ids": [],
+            "v": 4390
+        },
+        "variable": "Broccoli",
+        "value": {
+            "ids": [],
+            "v": 4390
+        }
+    },
+    {
+        "Country": "United Kingdom",
+        "Total Result": {
+            "ids": [
+                5
+            ],
+            "v": 85351
+        },
+        "variable": "Broccoli",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 38436
+        }
+    },
+    {
+        "Country": "United States",
+        "Total Result": {
+            "ids": [
+                6
+            ],
+            "v": 90162
+        },
+        "variable": "Broccoli",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 26715
+        }
+    },
+    {
+        "Country": "Total Result",
+        "Total Result": {
+            "ids": [],
+            "v": 336665
+        },
+        "variable": "Broccoli",
+        "value": {
+            "ids": [],
+            "v": 142439
+        }
+    },
+    {
+        "Country": "Australia",
+        "Total Result": {
+            "ids": [
+                0
+            ],
+            "v": 40492
+        },
+        "variable": "Carrots",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 8106
+        }
+    },
+    {
+        "Country": "Canada",
+        "Total Result": {
+            "ids": [
+                1
+            ],
+            "v": 12407
+        },
+        "variable": "Carrots",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 0
+        }
+    },
+    {
+        "Country": "France",
+        "Total Result": {
+            "ids": [
+                2
+            ],
+            "v": 15125
+        },
+        "variable": "Carrots",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 9104
+        }
+    },
+    {
+        "Country": "Germany",
+        "Total Result": {
+            "ids": [
+                3
+            ],
+            "v": 88738
+        },
+        "variable": "Carrots",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 21636
+        }
+    },
+    {
+        "Country": "New Zealand",
+        "Total Result": {
+            "ids": [],
+            "v": 4390
+        },
+        "variable": "Carrots",
+        "value": {
+            "ids": [],
+            "v": 0
+        }
+    },
+    {
+        "Country": "United Kingdom",
+        "Total Result": {
+            "ids": [
+                5
+            ],
+            "v": 85351
+        },
+        "variable": "Carrots",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 41815
+        }
+    },
+    {
+        "Country": "United States",
+        "Total Result": {
+            "ids": [
+                6
+            ],
+            "v": 90162
+        },
+        "variable": "Carrots",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 56284
+        }
+    },
+    {
+        "Country": "Total Result",
+        "Total Result": {
+            "ids": [],
+            "v": 336665
+        },
+        "variable": "Carrots",
+        "value": {
+            "ids": [],
+            "v": 136945
+        }
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "Category": "CAMERAS & CAMCORDERS",
+        "TOTAL": {
+            "ids": [],
+            "v": 355
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [],
+            "v": 245
+        }
+    },
+    {
+        "Category": "CELL PHONES",
+        "TOTAL": {
+            "ids": [],
+            "v": 265
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [],
+            "v": 185
+        }
+    },
+    {
+        "Category": "COMPUTERS",
+        "TOTAL": {
+            "ids": [
+                1
+            ],
+            "v": 568
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 450
+        }
+    },
+    {
+        "Category": "CAMERAS & CAMCORDERS",
+        "TOTAL": {
+            "ids": [],
+            "v": 355
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [],
+            "v": 261
+        }
+    },
+    {
+        "Category": "AUDIO",
+        "TOTAL": {
+            "ids": [],
+            "v": 100
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [],
+            "v": 81
+        }
+    },
+    {
+        "Category": "COMPUTERS",
+        "TOTAL": {
+            "ids": [
+                1
+            ],
+            "v": 568
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 395
+        }
+    },
+    {
+        "Category": "CAMERAS & CAMCORDERS",
+        "TOTAL": {
+            "ids": [],
+            "v": 355
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [],
+            "v": 272
+        }
+    },
+    {
+        "Category": "TV & VIDEO",
+        "TOTAL": {
+            "ids": [],
+            "v": 205
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [],
+            "v": 149
+        }
+    },
+    {
+        "Category": "MUSIC, MOVIES & AUDIO BOOKS",
+        "TOTAL": {
+            "ids": [],
+            "v": 90
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [],
+            "v": 61
+        }
+    },
+    {
+        "Category": "HOME APPLIANCES",
+        "TOTAL": {
+            "ids": [
+                0
+            ],
+            "v": 645
+        },
+        "variable": ">=0%",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 514
+        }
+    }
+]

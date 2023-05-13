@@ -1,0 +1,78 @@
+[
+    {
+        "id": 3,
+        "value": "cat 1",
+        "variable": {
+            "ids": [
+                2
+            ],
+            "v": 2525
+        }
+    },
+    {
+        "id": 1,
+        "value": "cat 3",
+        "variable": {
+            "ids": [
+                0
+            ],
+            "v": 19890
+        }
+    },
+    {
+        "id": 7,
+        "value": "cat 4",
+        "variable": {
+            "ids": [],
+            "v": 896
+        }
+    },
+    {
+        "id": 10,
+        "value": "cat 4",
+        "variable": {
+            "ids": [],
+            "v": -408
+        }
+    },
+    {
+        "id": 4,
+        "value": "cat 5",
+        "variable": {
+            "ids": [],
+            "v": -10210
+        }
+    },
+    {
+        "id": 5,
+        "value": "cat 5",
+        "variable": {
+            "ids": [],
+            "v": -13289
+        }
+    },
+    {
+        "id": 9,
+        "value": "cat 5",
+        "variable": {
+            "ids": [],
+            "v": 0
+        }
+    },
+    {
+        "id": 7,
+        "value": "cat 6",
+        "variable": {
+            "ids": [],
+            "v": 2331
+        }
+    },
+    {
+        "id": 4,
+        "value": "sum",
+        "variable": {
+            "ids": [],
+            "v": 12180
+        }
+    }
+]

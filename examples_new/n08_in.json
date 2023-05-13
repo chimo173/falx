@@ -1,0 +1,44 @@
+[
+    {
+        "Key": "K3",
+        "Prod": "P4",
+        "Subc": "S2",
+        "Cash": 30
+    },
+    {
+        "Key": "K1",
+        "Prod": "P1",
+        "Subc": "S1",
+        "Cash": 5
+    },
+    {
+        "Key": "K2",
+        "Prod": "P2",
+        "Subc": "S3",
+        "Cash": 30
+    },
+    {
+        "Key": "K1",
+        "Prod": "P1",
+        "Subc": "S2",
+        "Cash": 10
+    },
+    {
+        "Key": "K3",
+        "Prod": "P4",
+        "Subc": "S4",
+        "Cash": 40
+    },
+    {
+        "Key": "K2",
+        "Prod": "P4",
+        "Subc": "S1",
+        "Cash": 20
+    },
+    {
+        "Key": "K3",
+        "Prod": "P2",
+        "Subc": "S2",
+        "Cash": 30
+    }
+]

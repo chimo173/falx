@@ -1,0 +1,601 @@
+Sport,Rank,variable,value,Archery
+Archery,55,Endurance,2.88,True
+Auto Racing,32,Endurance,5.88,False
+Badminton,30,Endurance,5.25,False
+Baseball/Softball,9,Endurance,4.63,False
+Basketball,4,Endurance,7.38,False
+Billiards,59,Endurance,1.0,False
+Bobsledding/Luge,28,Endurance,3.5,False
+Bowling,57,Endurance,2.25,False
+Boxing,1,Endurance,8.63,False
+Canoe/Kayak,49,Endurance,6.75,False
+Cheerleading,52,Endurance,3.63,False
+Curling,56,Endurance,2.25,False
+Cycling: Distance,20,Endurance,9.63,False
+Cycling: Sprints,27,Endurance,4.25,False
+Diving,35,Endurance,2.88,False
+Equestrian,54,Endurance,3.38,False
+Fencing,24,Endurance,4.63,False
+Field Hockey,17,Endurance,6.75,False
+Figure Skating,19,Endurance,6.38,False
+Fishing,60,Endurance,1.38,False
+Football,3,Endurance,5.38,False
+Golf,51,Endurance,3.25,False
+Gymnastics,8,Endurance,5.38,False
+Horse Racing,50,Endurance,4.0,False
+Ice Hockey,2,Endurance,7.25,False
+Lacrosse,14,Endurance,6.63,False
+Martial Arts,6,Endurance,5.0,False
+Racquetball/Squash,22,Endurance,6.13,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Endurance,3.25,False
+Rodeo: Calf Roping,40,Endurance,3.13,False
+Rodeo: Steer Wrestling,15,Endurance,4.0,False
+Roller Skating,52,Endurance,4.75,False
+Rowing,39,Endurance,8.13,False
+Rugby,13,Endurance,6.75,False
+Shooting,58,Endurance,2.25,False
+Skateboarding,37,Endurance,4.13,False
+Ski Jumping,29,Endurance,3.5,False
+Skiing: Alpine,11,Endurance,5.13,False
+Skiing: Freestyle,25,Endurance,4.13,False
+Skiing: Nordic,30,Endurance,9.0,False
+Soccer,10,Endurance,7.75,False
+Speed Skating,17,Endurance,7.63,False
+Surfing,23,Endurance,4.63,False
+Swimming (all strokes): Distance,36,Endurance,9.25,False
+Swimming (all strokes): Sprints,45,Endurance,4.13,False
+Table Tennis,47,Endurance,3.5,False
+Team Handball,26,Endurance,4.88,False
+Tennis,7,Endurance,7.25,False
+Track and Field: Distance,40,Endurance,9.63,False
+Track and Field: High Jump,33,Endurance,3.0,False
+"Track and Field: Long, Triple jumps",34,Endurance,4.0,False
+Track and Field: Middle Distance,43,Endurance,6.0,False
+Track and Field: Pole Vault,16,Endurance,3.38,False
+Track and Field: Sprints,38,Endurance,3.5,False
+Track and Field: Weights,48,Endurance,3.25,False
+Volleyball,20,Endurance,5.13,False
+Water Polo,11,Endurance,7.88,False
+Water Skiing,46,Endurance,4.63,False
+Weight-Lifting,44,Endurance,4.13,False
+Wrestling,5,Endurance,6.63,False
+Archery,55,Strength,4.5,True
+Auto Racing,32,Strength,3.5,False
+Badminton,30,Strength,3.25,False
+Baseball/Softball,9,Strength,5.75,False
+Basketball,4,Strength,6.25,False
+Billiards,59,Strength,1.0,False
+Bobsledding/Luge,28,Strength,5.5,False
+Bowling,57,Strength,2.75,False
+Boxing,1,Strength,8.13,False
+Canoe/Kayak,49,Strength,5.25,False
+Cheerleading,52,Strength,3.63,False
+Curling,56,Strength,2.63,False
+Cycling: Distance,20,Strength,6.38,False
+Cycling: Sprints,27,Strength,6.13,False
+Diving,35,Strength,5.13,False
+Equestrian,54,Strength,3.25,False
+Fencing,24,Strength,3.75,False
+Field Hockey,17,Strength,4.5,False
+Figure Skating,19,Strength,5.25,False
+Fishing,60,Strength,1.63,False
+Football,3,Strength,8.63,False
+Golf,51,Strength,3.88,False
+Gymnastics,8,Strength,6.13,False
+Horse Racing,50,Strength,3.88,False
+Ice Hockey,2,Strength,7.13,False
+Lacrosse,14,Strength,5.13,False
+Martial Arts,6,Strength,5.88,False
+Racquetball/Squash,22,Strength,3.75,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Strength,5.38,False
+Rodeo: Calf Roping,40,Strength,5.38,False
+Rodeo: Steer Wrestling,15,Strength,7.0,False
+Roller Skating,52,Strength,3.38,False
+Rowing,39,Strength,7.75,False
+Rugby,13,Strength,7.0,False
+Shooting,58,Strength,2.5,False
+Skateboarding,37,Strength,3.75,False
+Ski Jumping,29,Strength,4.5,False
+Skiing: Alpine,11,Strength,5.25,False
+Skiing: Freestyle,25,Strength,5.13,False
+Skiing: Nordic,30,Strength,5.75,False
+Soccer,10,Strength,4.5,False
+Speed Skating,17,Strength,7.25,False
+Surfing,23,Strength,5.0,False
+Swimming (all strokes): Distance,36,Strength,5.25,False
+Swimming (all strokes): Sprints,45,Strength,5.25,False
+Table Tennis,47,Strength,2.5,False
+Team Handball,26,Strength,3.88,False
+Tennis,7,Strength,5.13,False
+Track and Field: Distance,40,Strength,5.25,False
+Track and Field: High Jump,33,Strength,6.0,False
+"Track and Field: Long, Triple jumps",34,Strength,5.63,False
+Track and Field: Middle Distance,43,Strength,5.13,False
+Track and Field: Pole Vault,16,Strength,6.88,False
+Track and Field: Sprints,38,Strength,5.13,False
+Track and Field: Weights,48,Strength,7.88,False
+Volleyball,20,Strength,4.88,False
+Water Polo,11,Strength,6.63,False
+Water Skiing,46,Strength,5.0,False
+Weight-Lifting,44,Strength,9.25,False
+Wrestling,5,Strength,8.38,False
+Archery,55,Power,3.13,True
+Auto Racing,32,Power,2.63,False
+Badminton,30,Power,4.0,False
+Baseball/Softball,9,Power,7.63,False
+Basketball,4,Power,6.5,False
+Billiards,59,Power,1.75,False
+Bobsledding/Luge,28,Power,6.5,False
+Bowling,57,Power,3.38,False
+Boxing,1,Power,8.63,False
+Canoe/Kayak,49,Power,5.63,False
+Cheerleading,52,Power,3.38,False
+Curling,56,Power,2.5,False
+Cycling: Distance,20,Power,6.25,False
+Cycling: Sprints,27,Power,7.88,False
+Diving,35,Power,4.63,False
+Equestrian,54,Power,1.75,False
+Fencing,24,Power,4.25,False
+Field Hockey,17,Power,5.38,False
+Figure Skating,19,Power,6.63,False
+Fishing,60,Power,1.25,False
+Football,3,Power,8.13,False
+Golf,51,Power,6.13,False
+Gymnastics,8,Power,6.63,False
+Horse Racing,50,Power,2.88,False
+Ice Hockey,2,Power,7.88,False
+Lacrosse,14,Power,5.75,False
+Martial Arts,6,Power,7.75,False
+Racquetball/Squash,22,Power,5.0,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Power,4.0,False
+Rodeo: Calf Roping,40,Power,5.0,False
+Rodeo: Steer Wrestling,15,Power,7.88,False
+Roller Skating,52,Power,4.0,False
+Rowing,39,Power,7.13,False
+Rugby,13,Power,6.38,False
+Shooting,58,Power,1.38,False
+Skateboarding,37,Power,3.75,False
+Ski Jumping,29,Power,5.75,False
+Skiing: Alpine,11,Power,6.0,False
+Skiing: Freestyle,25,Power,4.88,False
+Skiing: Nordic,30,Power,4.38,False
+Soccer,10,Power,5.13,False
+Speed Skating,17,Power,7.38,False
+Surfing,23,Power,4.13,False
+Swimming (all strokes): Distance,36,Power,4.63,False
+Swimming (all strokes): Sprints,45,Power,6.25,False
+Table Tennis,47,Power,4.63,False
+Team Handball,26,Power,5.38,False
+Tennis,7,Power,7.13,False
+Track and Field: Distance,40,Power,3.75,False
+Track and Field: High Jump,33,Power,7.0,False
+"Track and Field: Long, Triple jumps",34,Power,7.13,False
+Track and Field: Middle Distance,43,Power,5.13,False
+Track and Field: Pole Vault,16,Power,7.25,False
+Track and Field: Sprints,38,Power,7.25,False
+Track and Field: Weights,48,Power,9.13,False
+Volleyball,20,Power,6.63,False
+Water Polo,11,Power,6.88,False
+Water Skiing,46,Power,4.5,False
+Weight-Lifting,44,Power,9.75,False
+Wrestling,5,Power,7.13,False
+Archery,55,Speed,1.13,True
+Auto Racing,32,Speed,1.63,False
+Badminton,30,Speed,5.63,False
+Baseball/Softball,9,Speed,6.5,False
+Basketball,4,Speed,7.25,False
+Billiards,59,Speed,0.75,False
+Bobsledding/Luge,28,Speed,6.75,False
+Bowling,57,Speed,1.0,False
+Boxing,1,Speed,6.38,False
+Canoe/Kayak,49,Speed,3.5,False
+Cheerleading,52,Speed,2.25,False
+Curling,56,Speed,1.5,False
+Cycling: Distance,20,Speed,5.13,False
+Cycling: Sprints,27,Speed,7.5,False
+Diving,35,Speed,3.0,False
+Equestrian,54,Speed,1.25,False
+Fencing,24,Speed,5.13,False
+Field Hockey,17,Speed,6.0,False
+Figure Skating,19,Speed,5.13,False
+Fishing,60,Speed,0.63,False
+Football,3,Speed,7.13,False
+Golf,51,Speed,1.63,False
+Gymnastics,8,Speed,5.0,False
+Horse Racing,50,Speed,1.38,False
+Ice Hockey,2,Speed,7.75,False
+Lacrosse,14,Speed,7.0,False
+Martial Arts,6,Speed,6.38,False
+Racquetball/Squash,22,Speed,5.5,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Speed,1.75,False
+Rodeo: Calf Roping,40,Speed,4.25,False
+Rodeo: Steer Wrestling,15,Speed,3.88,False
+Roller Skating,52,Speed,5.13,False
+Rowing,39,Speed,4.0,False
+Rugby,13,Speed,5.88,False
+Shooting,58,Speed,0.88,False
+Skateboarding,37,Speed,4.13,False
+Ski Jumping,29,Speed,4.63,False
+Skiing: Alpine,11,Speed,7.38,False
+Skiing: Freestyle,25,Speed,5.13,False
+Skiing: Nordic,30,Speed,5.13,False
+Soccer,10,Speed,7.25,False
+Speed Skating,17,Speed,8.88,False
+Surfing,23,Speed,4.25,False
+Swimming (all strokes): Distance,36,Speed,5.5,False
+Swimming (all strokes): Sprints,45,Speed,7.88,False
+Table Tennis,47,Speed,4.13,False
+Team Handball,26,Speed,5.5,False
+Tennis,7,Speed,6.75,False
+Track and Field: Distance,40,Speed,6.0,False
+Track and Field: High Jump,33,Speed,6.13,False
+"Track and Field: Long, Triple jumps",34,Speed,6.75,False
+Track and Field: Middle Distance,43,Speed,7.75,False
+Track and Field: Pole Vault,16,Speed,6.13,False
+Track and Field: Sprints,38,Speed,9.88,False
+Track and Field: Weights,48,Speed,3.0,False
+Volleyball,20,Speed,5.0,False
+Water Polo,11,Speed,5.38,False
+Water Skiing,46,Speed,3.0,False
+Weight-Lifting,44,Speed,2.63,False
+Wrestling,5,Speed,5.13,False
+Archery,55,Agility,1.63,True
+Auto Racing,32,Agility,2.75,False
+Badminton,30,Agility,7.38,False
+Baseball/Softball,9,Agility,6.75,False
+Basketball,4,Agility,8.13,False
+Billiards,59,Agility,1.0,False
+Bobsledding/Luge,28,Agility,4.13,False
+Bowling,57,Agility,1.88,False
+Boxing,1,Agility,6.25,False
+Canoe/Kayak,49,Agility,2.75,False
+Cheerleading,52,Agility,4.13,False
+Curling,56,Agility,2.25,False
+Cycling: Distance,20,Agility,3.75,False
+Cycling: Sprints,27,Agility,4.0,False
+Diving,35,Agility,3.5,False
+Equestrian,54,Agility,2.5,False
+Fencing,24,Agility,6.13,False
+Field Hockey,17,Agility,5.75,False
+Figure Skating,19,Agility,6.88,False
+Fishing,60,Agility,1.5,False
+Football,3,Agility,6.38,False
+Golf,51,Agility,1.75,False
+Gymnastics,8,Agility,6.38,False
+Horse Racing,50,Agility,2.88,False
+Ice Hockey,2,Agility,7.63,False
+Lacrosse,14,Agility,6.63,False
+Martial Arts,6,Agility,6.0,False
+Racquetball/Squash,22,Agility,7.25,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Agility,3.63,False
+Rodeo: Calf Roping,40,Agility,5.63,False
+Rodeo: Steer Wrestling,15,Agility,4.88,False
+Roller Skating,52,Agility,4.0,False
+Rowing,39,Agility,2.5,False
+Rugby,13,Agility,6.0,False
+Shooting,58,Agility,1.13,False
+Skateboarding,37,Agility,6.13,False
+Ski Jumping,29,Agility,4.0,False
+Skiing: Alpine,11,Agility,6.13,False
+Skiing: Freestyle,25,Agility,6.63,False
+Skiing: Nordic,30,Agility,4.0,False
+Soccer,10,Agility,8.25,False
+Speed Skating,17,Agility,4.0,False
+Surfing,23,Agility,6.63,False
+Swimming (all strokes): Distance,36,Agility,3.63,False
+Swimming (all strokes): Sprints,45,Agility,3.63,False
+Table Tennis,47,Agility,5.88,False
+Team Handball,26,Agility,6.0,False
+Tennis,7,Agility,7.75,False
+Track and Field: Distance,40,Agility,3.25,False
+Track and Field: High Jump,33,Agility,5.63,False
+"Track and Field: Long, Triple jumps",34,Agility,5.0,False
+Track and Field: Middle Distance,43,Agility,4.0,False
+Track and Field: Pole Vault,16,Agility,5.38,False
+Track and Field: Sprints,38,Agility,4.63,False
+Track and Field: Weights,48,Agility,3.13,False
+Volleyball,20,Agility,7.0,False
+Water Polo,11,Agility,6.38,False
+Water Skiing,46,Agility,4.25,False
+Weight-Lifting,44,Agility,2.5,False
+Wrestling,5,Agility,6.38,False
+Archery,55,Flexibility,2.63,True
+Auto Racing,32,Flexibility,1.75,False
+Badminton,30,Flexibility,5.25,False
+Baseball/Softball,9,Flexibility,4.75,False
+Basketball,4,Flexibility,5.63,False
+Billiards,59,Flexibility,2.63,False
+Bobsledding/Luge,28,Flexibility,3.25,False
+Bowling,57,Flexibility,2.38,False
+Boxing,1,Flexibility,4.38,False
+Canoe/Kayak,49,Flexibility,3.88,False
+Cheerleading,52,Flexibility,7.5,False
+Curling,56,Flexibility,2.63,False
+Cycling: Distance,20,Flexibility,2.63,False
+Cycling: Sprints,27,Flexibility,2.88,False
+Diving,35,Flexibility,8.5,False
+Equestrian,54,Flexibility,2.88,False
+Fencing,24,Flexibility,5.63,False
+Field Hockey,17,Flexibility,4.63,False
+Figure Skating,19,Flexibility,8.25,False
+Fishing,60,Flexibility,1.13,False
+Football,3,Flexibility,4.38,False
+Golf,51,Flexibility,4.0,False
+Gymnastics,8,Flexibility,10.0,False
+Horse Racing,50,Flexibility,3.75,False
+Ice Hockey,2,Flexibility,4.88,False
+Lacrosse,14,Flexibility,4.75,False
+Martial Arts,6,Flexibility,7.0,False
+Racquetball/Squash,22,Flexibility,5.88,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Flexibility,4.25,False
+Rodeo: Calf Roping,40,Flexibility,3.88,False
+Rodeo: Steer Wrestling,15,Flexibility,5.0,False
+Roller Skating,52,Flexibility,3.5,False
+Rowing,39,Flexibility,4.0,False
+Rugby,13,Flexibility,4.13,False
+Shooting,58,Flexibility,1.75,False
+Skateboarding,37,Flexibility,5.13,False
+Ski Jumping,29,Flexibility,5.0,False
+Skiing: Alpine,11,Flexibility,5.63,False
+Skiing: Freestyle,25,Flexibility,6.88,False
+Skiing: Nordic,30,Flexibility,4.0,False
+Soccer,10,Flexibility,4.75,False
+Speed Skating,17,Flexibility,4.25,False
+Surfing,23,Flexibility,5.5,False
+Swimming (all strokes): Distance,36,Flexibility,5.5,False
+Swimming (all strokes): Sprints,45,Flexibility,5.5,False
+Table Tennis,47,Flexibility,4.25,False
+Team Handball,26,Flexibility,4.5,False
+Tennis,7,Flexibility,5.63,False
+Track and Field: Distance,40,Flexibility,4.38,False
+Track and Field: High Jump,33,Flexibility,6.63,False
+"Track and Field: Long, Triple jumps",34,Flexibility,5.75,False
+Track and Field: Middle Distance,43,Flexibility,4.88,False
+Track and Field: Pole Vault,16,Flexibility,7.0,False
+Track and Field: Sprints,38,Flexibility,5.13,False
+Track and Field: Weights,48,Flexibility,3.0,False
+Volleyball,20,Flexibility,5.13,False
+Water Polo,11,Flexibility,5.0,False
+Water Skiing,46,Flexibility,4.75,False
+Weight-Lifting,44,Flexibility,3.38,False
+Wrestling,5,Flexibility,7.5,False
+Archery,55,Nerve,2.75,True
+Auto Racing,32,Nerve,9.88,False
+Badminton,30,Nerve,1.25,False
+Baseball/Softball,9,Nerve,5.13,False
+Basketball,4,Nerve,4.13,False
+Billiards,59,Nerve,1.63,False
+Bobsledding/Luge,28,Nerve,7.75,False
+Bowling,57,Nerve,1.63,False
+Boxing,1,Nerve,8.88,False
+Canoe/Kayak,49,Nerve,3.63,False
+Cheerleading,52,Nerve,3.63,False
+Curling,56,Nerve,1.75,False
+Cycling: Distance,20,Nerve,5.88,False
+Cycling: Sprints,27,Nerve,4.75,False
+Diving,35,Nerve,8.38,False
+Equestrian,54,Nerve,6.0,False
+Fencing,24,Nerve,4.88,False
+Field Hockey,17,Nerve,3.75,False
+Figure Skating,19,Nerve,4.88,False
+Fishing,60,Nerve,0.88,False
+Football,3,Nerve,7.25,False
+Golf,51,Nerve,2.5,False
+Gymnastics,8,Nerve,7.5,False
+Horse Racing,50,Nerve,8.0,False
+Ice Hockey,2,Nerve,6.0,False
+Lacrosse,14,Nerve,4.38,False
+Martial Arts,6,Nerve,6.63,False
+Racquetball/Squash,22,Nerve,2.38,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Nerve,9.5,False
+Rodeo: Calf Roping,40,Nerve,4.88,False
+Rodeo: Steer Wrestling,15,Nerve,7.88,False
+Roller Skating,52,Nerve,2.63,False
+Rowing,39,Nerve,1.75,False
+Rugby,13,Nerve,6.5,False
+Shooting,58,Nerve,2.38,False
+Skateboarding,37,Nerve,6.5,False
+Ski Jumping,29,Nerve,9.0,False
+Skiing: Alpine,11,Nerve,8.38,False
+Skiing: Freestyle,25,Nerve,6.63,False
+Skiing: Nordic,30,Nerve,2.75,False
+Soccer,10,Nerve,3.63,False
+Speed Skating,17,Nerve,4.5,False
+Surfing,23,Nerve,8.25,False
+Swimming (all strokes): Distance,36,Nerve,2.63,False
+Swimming (all strokes): Sprints,45,Nerve,2.5,False
+Table Tennis,47,Nerve,1.38,False
+Team Handball,26,Nerve,3.0,False
+Tennis,7,Nerve,3.0,False
+Track and Field: Distance,40,Nerve,2.0,False
+Track and Field: High Jump,33,Nerve,3.5,False
+"Track and Field: Long, Triple jumps",34,Nerve,2.75,False
+Track and Field: Middle Distance,43,Nerve,2.0,False
+Track and Field: Pole Vault,16,Nerve,6.63,False
+Track and Field: Sprints,38,Nerve,2.0,False
+Track and Field: Weights,48,Nerve,2.25,False
+Volleyball,20,Nerve,2.88,False
+Water Polo,11,Nerve,4.25,False
+Water Skiing,46,Nerve,5.88,False
+Weight-Lifting,44,Nerve,4.0,False
+Wrestling,5,Nerve,5.0,False
+Archery,55,Durability,2.13,True
+Auto Racing,32,Durability,4.38,False
+Badminton,30,Durability,2.63,False
+Baseball/Softball,9,Durability,5.63,False
+Basketball,4,Durability,7.75,False
+Billiards,59,Durability,0.75,False
+Bobsledding/Luge,28,Durability,3.5,False
+Bowling,57,Durability,1.25,False
+Boxing,1,Durability,8.5,False
+Canoe/Kayak,49,Durability,3.25,False
+Cheerleading,52,Durability,3.38,False
+Curling,56,Durability,1.5,False
+Cycling: Distance,20,Durability,6.88,False
+Cycling: Sprints,27,Durability,4.5,False
+Diving,35,Durability,5.0,False
+Equestrian,54,Durability,2.75,False
+Fencing,24,Durability,4.25,False
+Field Hockey,17,Durability,5.0,False
+Figure Skating,19,Durability,4.0,False
+Fishing,60,Durability,0.88,False
+Football,3,Durability,8.5,False
+Golf,51,Durability,2.38,False
+Gymnastics,8,Durability,6.88,False
+Horse Racing,50,Durability,4.5,False
+Ice Hockey,2,Durability,8.25,False
+Lacrosse,14,Durability,6.13,False
+Martial Arts,6,Durability,5.88,False
+Racquetball/Squash,22,Durability,2.88,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Durability,7.38,False
+Rodeo: Calf Roping,40,Durability,3.75,False
+Rodeo: Steer Wrestling,15,Durability,6.88,False
+Roller Skating,52,Durability,3.38,False
+Rowing,39,Durability,4.38,False
+Rugby,13,Durability,7.88,False
+Shooting,58,Durability,1.88,False
+Skateboarding,37,Durability,5.25,False
+Ski Jumping,29,Durability,4.63,False
+Skiing: Alpine,11,Durability,6.0,False
+Skiing: Freestyle,25,Durability,5.13,False
+Skiing: Nordic,30,Durability,5.5,False
+Soccer,10,Durability,6.25,False
+Speed Skating,17,Durability,4.63,False
+Surfing,23,Durability,5.5,False
+Swimming (all strokes): Distance,36,Durability,4.63,False
+Swimming (all strokes): Sprints,45,Durability,3.25,False
+Table Tennis,47,Durability,1.88,False
+Team Handball,26,Durability,3.88,False
+Tennis,7,Durability,5.0,False
+Track and Field: Distance,40,Durability,5.75,False
+Track and Field: High Jump,33,Durability,3.5,False
+"Track and Field: Long, Triple jumps",34,Durability,3.25,False
+Track and Field: Middle Distance,43,Durability,4.75,False
+Track and Field: Pole Vault,16,Durability,4.25,False
+Track and Field: Sprints,38,Durability,4.13,False
+Track and Field: Weights,48,Durability,3.63,False
+Volleyball,20,Durability,4.63,False
+Water Polo,11,Durability,6.38,False
+Water Skiing,46,Durability,4.63,False
+Weight-Lifting,44,Durability,4.75,False
+Wrestling,5,Durability,6.75,False
+Archery,55,Hand-Eye-Coordination,6.63,True
+Auto Racing,32,Hand-Eye-Coordination,8.0,False
+Badminton,30,Hand-Eye-Coordination,7.25,False
+Baseball/Softball,9,Hand-Eye-Coordination,9.25,False
+Basketball,4,Hand-Eye-Coordination,7.5,False
+Billiards,59,Hand-Eye-Coordination,5.25,False
+Bobsledding/Luge,28,Hand-Eye-Coordination,4.13,False
+Bowling,57,Hand-Eye-Coordination,4.75,False
+Boxing,1,Hand-Eye-Coordination,7.0,False
+Canoe/Kayak,49,Hand-Eye-Coordination,3.13,False
+Cheerleading,52,Hand-Eye-Coordination,2.5,False
+Curling,56,Hand-Eye-Coordination,4.88,False
+Cycling: Distance,20,Hand-Eye-Coordination,3.0,False
+Cycling: Sprints,27,Hand-Eye-Coordination,3.63,False
+Diving,35,Hand-Eye-Coordination,3.0,False
+Equestrian,54,Hand-Eye-Coordination,2.88,False
+Fencing,24,Hand-Eye-Coordination,7.25,False
+Field Hockey,17,Hand-Eye-Coordination,6.63,False
+Figure Skating,19,Hand-Eye-Coordination,3.13,False
+Fishing,60,Hand-Eye-Coordination,2.38,False
+Football,3,Hand-Eye-Coordination,5.5,False
+Golf,51,Hand-Eye-Coordination,6.0,False
+Gymnastics,8,Hand-Eye-Coordination,4.5,False
+Horse Racing,50,Hand-Eye-Coordination,3.88,False
+Ice Hockey,2,Hand-Eye-Coordination,7.5,False
+Lacrosse,14,Hand-Eye-Coordination,7.13,False
+Martial Arts,6,Hand-Eye-Coordination,6.0,False
+Racquetball/Squash,22,Hand-Eye-Coordination,8.38,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Hand-Eye-Coordination,3.63,False
+Rodeo: Calf Roping,40,Hand-Eye-Coordination,6.38,False
+Rodeo: Steer Wrestling,15,Hand-Eye-Coordination,5.13,False
+Roller Skating,52,Hand-Eye-Coordination,2.88,False
+Rowing,39,Hand-Eye-Coordination,2.88,False
+Rugby,13,Hand-Eye-Coordination,4.38,False
+Shooting,58,Hand-Eye-Coordination,6.75,False
+Skateboarding,37,Hand-Eye-Coordination,4.88,False
+Ski Jumping,29,Hand-Eye-Coordination,4.38,False
+Skiing: Alpine,11,Hand-Eye-Coordination,5.13,False
+Skiing: Freestyle,25,Hand-Eye-Coordination,4.13,False
+Skiing: Nordic,30,Hand-Eye-Coordination,3.63,False
+Soccer,10,Hand-Eye-Coordination,6.5,False
+Speed Skating,17,Hand-Eye-Coordination,2.88,False
+Surfing,23,Hand-Eye-Coordination,4.38,False
+Swimming (all strokes): Distance,36,Hand-Eye-Coordination,2.88,False
+Swimming (all strokes): Sprints,45,Hand-Eye-Coordination,2.75,False
+Table Tennis,47,Hand-Eye-Coordination,8.88,False
+Team Handball,26,Hand-Eye-Coordination,7.88,False
+Tennis,7,Hand-Eye-Coordination,8.38,False
+Track and Field: Distance,40,Hand-Eye-Coordination,1.88,False
+Track and Field: High Jump,33,Hand-Eye-Coordination,3.5,False
+"Track and Field: Long, Triple jumps",34,Hand-Eye-Coordination,4.0,False
+Track and Field: Middle Distance,43,Hand-Eye-Coordination,2.13,False
+Track and Field: Pole Vault,16,Hand-Eye-Coordination,5.25,False
+Track and Field: Sprints,38,Hand-Eye-Coordination,2.63,False
+Track and Field: Weights,48,Hand-Eye-Coordination,4.0,False
+Volleyball,20,Hand-Eye-Coordination,7.25,False
+Water Polo,11,Hand-Eye-Coordination,6.25,False
+Water Skiing,46,Hand-Eye-Coordination,4.13,False
+Weight-Lifting,44,Hand-Eye-Coordination,2.25,False
+Wrestling,5,Hand-Eye-Coordination,4.25,False
+Archery,55,Analytical-Aptitude,3.25,True
+Auto Racing,32,Analytical-Aptitude,7.5,False
+Badminton,30,Analytical-Aptitude,6.13,False
+Baseball/Softball,9,Analytical-Aptitude,6.25,False
+Basketball,4,Analytical-Aptitude,7.38,False
+Billiards,59,Analytical-Aptitude,5.75,False
+Bobsledding/Luge,28,Analytical-Aptitude,4.25,False
+Bowling,57,Analytical-Aptitude,4.13,False
+Boxing,1,Analytical-Aptitude,5.63,False
+Canoe/Kayak,49,Analytical-Aptitude,4.25,False
+Cheerleading,52,Analytical-Aptitude,2.25,False
+Curling,56,Analytical-Aptitude,5.63,False
+Cycling: Distance,20,Analytical-Aptitude,4.88,False
+Cycling: Sprints,27,Analytical-Aptitude,4.5,False
+Diving,35,Analytical-Aptitude,3.0,False
+Equestrian,54,Analytical-Aptitude,5.13,False
+Fencing,24,Analytical-Aptitude,6.88,False
+Field Hockey,17,Analytical-Aptitude,6.5,False
+Figure Skating,19,Analytical-Aptitude,4.25,False
+Fishing,60,Analytical-Aptitude,2.88,False
+Football,3,Analytical-Aptitude,7.13,False
+Golf,51,Analytical-Aptitude,6.38,False
+Gymnastics,8,Analytical-Aptitude,4.13,False
+Horse Racing,50,Analytical-Aptitude,6.5,False
+Ice Hockey,2,Analytical-Aptitude,7.5,False
+Lacrosse,14,Analytical-Aptitude,6.88,False
+Martial Arts,6,Analytical-Aptitude,6.88,False
+Racquetball/Squash,22,Analytical-Aptitude,6.5,False
+Rodeo: Bull/Bareback/Bronc Riding,42,Analytical-Aptitude,3.13,False
+Rodeo: Calf Roping,40,Analytical-Aptitude,3.75,False
+Rodeo: Steer Wrestling,15,Analytical-Aptitude,4.0,False
+Roller Skating,52,Analytical-Aptitude,2.63,False
+Rowing,39,Analytical-Aptitude,3.63,False
+Rugby,13,Analytical-Aptitude,5.63,False
+Shooting,58,Analytical-Aptitude,4.0,False
+Skateboarding,37,Analytical-Aptitude,3.13,False
+Ski Jumping,29,Analytical-Aptitude,3.5,False
+Skiing: Alpine,11,Analytical-Aptitude,5.63,False
+Skiing: Freestyle,25,Analytical-Aptitude,3.88,False
+Skiing: Nordic,30,Analytical-Aptitude,3.88,False
+Soccer,10,Analytical-Aptitude,7.5,False
+Speed Skating,17,Analytical-Aptitude,3.5,False
+Surfing,23,Analytical-Aptitude,4.88,False
+Swimming (all strokes): Distance,36,Analytical-Aptitude,3.0,False
+Swimming (all strokes): Sprints,45,Analytical-Aptitude,3.0,False
+Table Tennis,47,Analytical-Aptitude,6.0,False
+Team Handball,26,Analytical-Aptitude,5.88,False
+Tennis,7,Analytical-Aptitude,6.75,False
+Track and Field: Distance,40,Analytical-Aptitude,4.13,False
+Track and Field: High Jump,33,Analytical-Aptitude,2.88,False
+"Track and Field: Long, Triple jumps",34,Analytical-Aptitude,3.13,False
+Track and Field: Middle Distance,43,Analytical-Aptitude,3.75,False
+Track and Field: Pole Vault,16,Analytical-Aptitude,3.75,False
+Track and Field: Sprints,38,Analytical-Aptitude,2.38,False
+Track and Field: Weights,48,Analytical-Aptitude,2.88,False
+Volleyball,20,Analytical-Aptitude,5.88,False
+Water Polo,11,Analytical-Aptitude,5.63,False
+Water Skiing,46,Analytical-Aptitude,3.25,False
+Weight-Lifting,44,Analytical-Aptitude,2.38,False
+Wrestling,5,Analytical-Aptitude,6.38,False

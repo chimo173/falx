@@ -1,0 +1,13 @@
+Species,variable,value
+setosa,Petal.Length,722
+setosa,Petal.Width,123
+setosa,Sepal.Length,2143
+setosa,Sepal.Width,1516
+versicolor,Petal.Length,1878
+versicolor,Petal.Width,600
+versicolor,Sepal.Length,2599
+versicolor,Sepal.Width,1151
+virginica,Petal.Length,2533
+virginica,Petal.Width,905
+virginica,Sepal.Length,3186
+virginica,Sepal.Width,1163

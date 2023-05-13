@@ -1,0 +1,13 @@
+Feature,value,Condition,Sex
+A,6,1,M
+A,4,2,M
+A,10,3,M
+Aneg,1,1,M
+Aneg,2,2,M
+Aneg,6,3,M
+A,2,1,F
+A,3,2,F
+A,4,3,F
+Aneg,5,1,F
+Aneg,6,2,F
+Aneg,9,3,F

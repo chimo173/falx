@@ -1,0 +1,11 @@
+Complaint Type,Count,cumsum
+Too noisy,27,27
+Overpriced,789,816
+Food is tasteless,65,881
+Food not fresh,9,890
+Food is too salty,15,905
+Not clean,30,935
+Unfriendly staff,12,947
+Wait time,109,1056
+No atmosphere,45,1101
+Small portions,621,1722

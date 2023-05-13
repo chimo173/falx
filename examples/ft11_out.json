@@ -1,0 +1,119 @@
+[
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2010-1",
+        "value": {
+            "ids": [],
+            "v": 813
+        },
+        "cumsum": {
+            "ids": [],
+            "v": 813
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2010-2",
+        "value": {
+            "ids": [],
+            "v": 194
+        },
+        "cumsum": {
+            "ids": [],
+            "v": 1007
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2010-3",
+        "value": {
+            "ids": [],
+            "v": 937
+        },
+        "cumsum": {
+            "ids": [],
+            "v": 1944
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2010-4",
+        "value": {
+            "ids": [],
+            "v": 719
+        },
+        "cumsum": {
+            "ids": [],
+            "v": 2663
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2011-1",
+        "value": {
+            "ids": [],
+            "v": 840
+        },
+        "cumsum": {
+            "ids": [],
+            "v": 3503
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2011-2",
+        "value": {
+            "ids": [],
+            "v": 322
+        },
+        "cumsum": {
+            "ids": [],
+            "v": 3825
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2011-3",
+        "value": {
+            "ids": [],
+            "v": 326
+        },
+        "cumsum": {
+            "ids": [],
+            "v": 4151
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2011-4",
+        "value": {
+            "ids": [],
+            "v": 567
+        },
+        "cumsum": {
+            "ids": [],
+            "v": 4718
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2012-1",
+        "value": {
+            "ids": [],
+            "v": 333
+        },
+        "cumsum": {
+            "ids": [],
+            "v": 5051
+        }
+    }
+]

@@ -1,0 +1,2662 @@
+[
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [
+                0
+            ],
+            "v": 12
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 12
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 212
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 212
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [
+                2
+            ],
+            "v": 530
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 530
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1578
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 1578
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1662
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 1662
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [
+                5
+            ],
+            "v": 1214
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 1214
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1049
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 1049
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 988
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 988
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1012
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 1012
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1187
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 1187
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1362
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 1362
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1652
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 1652
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1839
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 1839
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1805
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 1805
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2168
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 2168
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 942
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 942
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 696
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 696
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 413
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 413
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 246
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 246
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 109
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 109
+        }
+    },
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 2
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 16
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 16
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [],
+            "v": 48
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 48
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 69
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 69
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 81
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 81
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [],
+            "v": 129
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 129
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 163
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 163
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 224
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 224
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 205
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 205
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 285
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 285
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 272
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 272
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 342
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 342
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 644
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 644
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 416
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 416
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 396
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 396
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 221
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 221
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 149
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 149
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 121
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 121
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 67
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 67
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 30
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "500",
+        "value": {
+            "ids": [],
+            "v": 30
+        }
+    },
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [
+                0
+            ],
+            "v": 12
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": -488
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 212
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -288
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [
+                2
+            ],
+            "v": 530
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 30
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1578
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 1078
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1662
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 1162
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [
+                5
+            ],
+            "v": 1214
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 714
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1049
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 549
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 988
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 488
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1012
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 512
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1187
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 687
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1362
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 862
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1652
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 1152
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1839
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 1339
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1805
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 1305
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2168
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 1668
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 942
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 442
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 696
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 196
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 413
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -87
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 246
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -254
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 109
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -391
+        }
+    },
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -498
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 16
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -484
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [],
+            "v": 48
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -452
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 69
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -431
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 81
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -419
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [],
+            "v": 129
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -371
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 163
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -337
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 224
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -276
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 205
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -295
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 285
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -215
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 272
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -228
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 342
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -158
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 644
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": 144
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 416
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -84
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 396
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -104
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 221
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -279
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 149
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -351
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 121
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -379
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 67
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -433
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 30
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1000",
+        "value": {
+            "ids": [],
+            "v": -470
+        }
+    },
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [
+                0
+            ],
+            "v": 12
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": -988
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 212
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -788
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [
+                2
+            ],
+            "v": 530
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": -470
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1578
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 578
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1662
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 662
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [
+                5
+            ],
+            "v": 1214
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 214
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1049
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 49
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 988
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -12
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1012
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 12
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1187
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 187
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1362
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 362
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1652
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 652
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1839
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 839
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1805
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 805
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2168
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": 1168
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 942
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -58
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 696
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -304
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 413
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -587
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 246
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -754
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 109
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -891
+        }
+    },
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -998
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 16
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -984
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [],
+            "v": 48
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -952
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 69
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -931
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 81
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -919
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [],
+            "v": 129
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -871
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 163
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -837
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 224
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -776
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 205
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -795
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 285
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -715
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 272
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -728
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 342
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -658
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 644
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -356
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 416
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -584
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 396
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -604
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 221
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -779
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 149
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -851
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 121
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -879
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 67
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -933
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 30
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "1500",
+        "value": {
+            "ids": [],
+            "v": -970
+        }
+    },
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [
+                0
+            ],
+            "v": 12
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": -1488
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 212
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1288
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [
+                2
+            ],
+            "v": 530
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": -970
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1578
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": 78
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1662
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": 162
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [
+                5
+            ],
+            "v": 1214
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": -286
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1049
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -451
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 988
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -512
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1012
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -488
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1187
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -313
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1362
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -138
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1652
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": 152
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1839
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": 339
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1805
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": 305
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2168
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": 668
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 942
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -558
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 696
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -804
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 413
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1087
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 246
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1254
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 109
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1391
+        }
+    },
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1498
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 16
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1484
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [],
+            "v": 48
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1452
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 69
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1431
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 81
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1419
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [],
+            "v": 129
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1371
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 163
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1337
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 224
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1276
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 205
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1295
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 285
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1215
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 272
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1228
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 342
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1158
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 644
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -856
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 416
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1084
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 396
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1104
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 221
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1279
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 149
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1351
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 121
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1379
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 67
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1433
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 30
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2000",
+        "value": {
+            "ids": [],
+            "v": -1470
+        }
+    },
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [
+                0
+            ],
+            "v": 12
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": -1988
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 212
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1788
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [
+                2
+            ],
+            "v": 530
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": -1470
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1578
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -422
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1662
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -338
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [
+                5
+            ],
+            "v": 1214
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": -786
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1049
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -951
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 988
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1012
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1012
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -988
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1187
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -813
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1362
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -638
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1652
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -348
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1839
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -161
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 1805
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -195
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2168
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": 168
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 942
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1058
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 696
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1304
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 413
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1587
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 246
+        },
+        "Station": "De\u00e1k t\u00e9r - Bajcsi-Zsilinszky \u00fat",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1754
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 109
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1891
+        }
+    },
+    {
+        "time": "5:00",
+        "Passengers": {
+            "ids": [],
+            "v": 2
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1998
+        }
+    },
+    {
+        "time": "6:00",
+        "Passengers": {
+            "ids": [],
+            "v": 16
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1984
+        }
+    },
+    {
+        "time": "7:00",
+        "Passengers": {
+            "ids": [],
+            "v": 48
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1952
+        }
+    },
+    {
+        "time": "8:00",
+        "Passengers": {
+            "ids": [],
+            "v": 69
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1931
+        }
+    },
+    {
+        "time": "9:00",
+        "Passengers": {
+            "ids": [],
+            "v": 81
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1919
+        }
+    },
+    {
+        "time": "10:00",
+        "Passengers": {
+            "ids": [],
+            "v": 129
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1871
+        }
+    },
+    {
+        "time": "11:00",
+        "Passengers": {
+            "ids": [],
+            "v": 163
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1837
+        }
+    },
+    {
+        "time": "12:00",
+        "Passengers": {
+            "ids": [],
+            "v": 224
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1776
+        }
+    },
+    {
+        "time": "13:00",
+        "Passengers": {
+            "ids": [],
+            "v": 205
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1795
+        }
+    },
+    {
+        "time": "14:00",
+        "Passengers": {
+            "ids": [],
+            "v": 285
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1715
+        }
+    },
+    {
+        "time": "15:00",
+        "Passengers": {
+            "ids": [],
+            "v": 272
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1728
+        }
+    },
+    {
+        "time": "16:00",
+        "Passengers": {
+            "ids": [],
+            "v": 342
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1658
+        }
+    },
+    {
+        "time": "17:00",
+        "Passengers": {
+            "ids": [],
+            "v": 644
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1356
+        }
+    },
+    {
+        "time": "18:00",
+        "Passengers": {
+            "ids": [],
+            "v": 416
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1584
+        }
+    },
+    {
+        "time": "19:00",
+        "Passengers": {
+            "ids": [],
+            "v": 396
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1604
+        }
+    },
+    {
+        "time": "20:00",
+        "Passengers": {
+            "ids": [],
+            "v": 221
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1779
+        }
+    },
+    {
+        "time": "21:00",
+        "Passengers": {
+            "ids": [],
+            "v": 149
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1851
+        }
+    },
+    {
+        "time": "22:00",
+        "Passengers": {
+            "ids": [],
+            "v": 121
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1879
+        }
+    },
+    {
+        "time": "23:00",
+        "Passengers": {
+            "ids": [],
+            "v": 67
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1933
+        }
+    },
+    {
+        "time": "0:00",
+        "Passengers": {
+            "ids": [],
+            "v": 30
+        },
+        "Station": "V\u00f6r\u00f6smarty t\u00e9r - De\u00e1k t\u00e9r",
+        "variable": "2500",
+        "value": {
+            "ids": [],
+            "v": -1970
+        }
+    }
+]

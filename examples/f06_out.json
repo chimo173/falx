@@ -1,0 +1,98 @@
+[
+    {
+        "Bucket": "Bucket E",
+        "variable": "Budgeted",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 100
+        }
+    },
+    {
+        "Bucket": "Bucket D",
+        "variable": "Budgeted",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 100
+        }
+    },
+    {
+        "Bucket": "Bucket C",
+        "variable": "Budgeted",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 125
+        }
+    },
+    {
+        "Bucket": "Bucket B",
+        "variable": "Budgeted",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 125
+        }
+    },
+    {
+        "Bucket": "Bucket A",
+        "variable": "Budgeted",
+        "value": {
+            "ids": [],
+            "v": 140
+        }
+    },
+    {
+        "Bucket": "Bucket E",
+        "variable": "Actual",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 115
+        }
+    },
+    {
+        "Bucket": "Bucket D",
+        "variable": "Actual",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 90
+        }
+    },
+    {
+        "Bucket": "Bucket C",
+        "variable": "Actual",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 115
+        }
+    },
+    {
+        "Bucket": "Bucket B",
+        "variable": "Actual",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 140
+        }
+    },
+    {
+        "Bucket": "Bucket A",
+        "variable": "Actual",
+        "value": {
+            "ids": [],
+            "v": 150
+        }
+    }
+]

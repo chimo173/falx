@@ -1,0 +1,38 @@
+[
+    {
+        "gender": "male",
+        "dealer": 1,
+        "store": 11,
+        "transport": 10
+    },
+    {
+        "gender": "male",
+        "dealer": 2,
+        "store": 22,
+        "transport": 20
+    },
+    {
+        "gender": "female",
+        "dealer": 3,
+        "store": 33,
+        "transport": 30
+    },
+    {
+        "gender": "female",
+        "dealer": 4,
+        "store": 44,
+        "transport": 40
+    },
+    {
+        "gender": "male",
+        "dealer": 5,
+        "store": 55,
+        "transport": 50
+    },
+    {
+        "gender": "female",
+        "dealer": 6,
+        "store": 66,
+        "transport": 60
+    }
+]

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf78b232-5583-427c-81b8-2395e7f40cb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/examples/examples/ex02.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ex03.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ex05.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ex09.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ex10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ex11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ex13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f03.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f03_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f03_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f03_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f07.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f07.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f07_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f07_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f07_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f08.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f08.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f08_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f08_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f08_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f16_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f16_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f16_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f21_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f21_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f21_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f25.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f25.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f25_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f25_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f25_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f29.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f29_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f29_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f29_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f32.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f32.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f32_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f32_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f32_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f37.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f37.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f37_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f37_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f37_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f40.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f40.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f40_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f40_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f40_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f44.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f44_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f44_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f44_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f47.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f47.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f47_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f47_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f47_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f51.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f51.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f51_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f51_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f51_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f53.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f53_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f53_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/f53_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft05.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft05.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft05_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft05_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft05_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft06.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft06.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft06_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft06_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft06_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft09.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft09.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft09_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft09_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft09_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft11_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft11_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft11_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft15_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft15_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft15_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft16_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft23_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft23_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/examples/ft23_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f02.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f02_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f02_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f02_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f05.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f05.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f05_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f05_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f05_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f06.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f06.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f06_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f06_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f06_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f09.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f09.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f09_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f09_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f09_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f10_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f10_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f10_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f11_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f11_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f11_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f12_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f12_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f12_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f17_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f17_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f17_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f20_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f20_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f20_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f21_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f22_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f22_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f22_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f29.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f29_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f29_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f29_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f32.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f32.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f32_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f32_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f32_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f53_in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f53_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f53_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ft09_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/ft15_out.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/falx/analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/falx/falx-new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/falx/falx-original-bk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/falx/new_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/falx/eval_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/falx/eval_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/falx/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/falx/run.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PIqVvKDg8Bey6YGlRIS3fw03e0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/jingtaoxia/viz_ref_falx/falx/examples"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples" />
+      <recent name="$PROJECT_DIR$/falx" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf78b232-5583-427c-81b8-2395e7f40cb2" name="Changes" comment="" />
+      <created>1683154971555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683154971555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,114 @@
+[
+    {
+        "variable": "Q1",
+        "year": 2011,
+        "value": {
+            "ids": [
+                0,
+                2,
+                5
+            ],
+            "v": 27
+        }
+    },
+    {
+        "variable": "Q1",
+        "year": 2012,
+        "value": {
+            "ids": [],
+            "v": 26
+        }
+    },
+    {
+        "variable": "Q1",
+        "year": 2013,
+        "value": {
+            "ids": [],
+            "v": 35
+        }
+    },
+    {
+        "variable": "Q2",
+        "year": 2011,
+        "value": {
+            "ids": [
+                0,
+                2,
+                5
+            ],
+            "v": 35
+        }
+    },
+    {
+        "variable": "Q2",
+        "year": 2012,
+        "value": {
+            "ids": [],
+            "v": 36
+        }
+    },
+    {
+        "variable": "Q2",
+        "year": 2013,
+        "value": {
+            "ids": [],
+            "v": 27
+        }
+    },
+    {
+        "variable": "Q3",
+        "year": 2011,
+        "value": {
+            "ids": [
+                0,
+                2,
+                5
+            ],
+            "v": 31
+        }
+    },
+    {
+        "variable": "Q3",
+        "year": 2012,
+        "value": {
+            "ids": [],
+            "v": 35
+        }
+    },
+    {
+        "variable": "Q3",
+        "year": 2013,
+        "value": {
+            "ids": [],
+            "v": 40
+        }
+    },
+    {
+        "variable": "Q4",
+        "year": 2011,
+        "value": {
+            "ids": [
+                0,
+                2,
+                5
+            ],
+            "v": 24
+        }
+    },
+    {
+        "variable": "Q4",
+        "year": 2012,
+        "value": {
+            "ids": [],
+            "v": 30
+        }
+    },
+    {
+        "variable": "Q4",
+        "year": 2013,
+        "value": {
+            "ids": [],
+            "v": 41
+        }
+    }
+]

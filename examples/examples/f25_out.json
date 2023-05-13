@@ -1,0 +1,158 @@
+[
+    {
+        "Complaint Type": "Too noisy",
+        "Count": {
+            "ids": [
+                0
+            ],
+            "v": 27
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 27
+        }
+    },
+    {
+        "Complaint Type": "Overpriced",
+        "Count": {
+            "ids": [
+                1
+            ],
+            "v": 789
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 816
+        }
+    },
+    {
+        "Complaint Type": "Food is tasteless",
+        "Count": {
+            "ids": [],
+            "v": 65
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 881
+        }
+    },
+    {
+        "Complaint Type": "Food not fresh",
+        "Count": {
+            "ids": [],
+            "v": 9
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 890
+        }
+    },
+    {
+        "Complaint Type": "Food is too salty",
+        "Count": {
+            "ids": [
+                4
+            ],
+            "v": 15
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 905
+        }
+    },
+    {
+        "Complaint Type": "Not clean",
+        "Count": {
+            "ids": [],
+            "v": 30
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 935
+        }
+    },
+    {
+        "Complaint Type": "Unfriendly staff",
+        "Count": {
+            "ids": [],
+            "v": 12
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 947
+        }
+    },
+    {
+        "Complaint Type": "Wait time",
+        "Count": {
+            "ids": [],
+            "v": 109
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 1056
+        }
+    },
+    {
+        "Complaint Type": "No atmosphere",
+        "Count": {
+            "ids": [],
+            "v": 45
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 1101
+        }
+    },
+    {
+        "Complaint Type": "Small portions",
+        "Count": {
+            "ids": [],
+            "v": 621
+        },
+        "cumsum": {
+            "ids": [
+                0,
+                1,
+                4
+            ],
+            "v": 1722
+        }
+    }
+]

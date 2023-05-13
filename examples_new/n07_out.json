@@ -1,0 +1,57 @@
+[
+    {
+        "id": "honda",
+        "sample": "sample1_1",
+        "ratio": {
+            "ids": [
+                0,
+                1
+            ],
+            "v": 0.7542380627
+        }
+    },
+    {
+        "id": "audi",
+        "sample": "sample1_2",
+        "ratio": {
+            "ids": [
+                0,
+                1
+            ],
+            "v": 0.2820753465
+        }
+    },
+    {
+        "id": "honda",
+        "sample": "sample2_2",
+        "ratio": {
+            "ids": [
+                0,
+                1
+            ],
+            "v": 0.856334123
+        }
+    },
+    {
+        "id": "audi",
+        "sample": "sample2_2",
+        "ratio": {
+            "ids": [
+                0,
+                1
+            ],
+            "v": 0.143665877
+        }
+    },
+    {
+        "id": "honda",
+        "sample": "sample2_3",
+        "ratio": {
+            "ids": [
+                0,
+                1
+            ],
+            "v": 0.8653014072
+        }
+    }
+]

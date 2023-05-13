@@ -1,0 +1,58 @@
+[
+    {
+        "Year": 2015,
+        "Month": 3,
+        "Condition": "B",
+        "sumAmount": {
+            "ids": [],
+            "v": 229
+        }
+    },
+    {
+        "Year": 2015,
+        "Month": 10,
+        "Condition": "A",
+        "sumAmount": {
+            "ids": [],
+            "v": 14
+        }
+    },
+    {
+        "Year": 2016,
+        "Month": 4,
+        "Condition": "A",
+        "sumAmount": {
+            "ids": [],
+            "v": 100
+        }
+    },
+    {
+        "Year": 2016,
+        "Month": 10,
+        "Condition": "A",
+        "sumAmount": {
+            "ids": [],
+            "v": 28
+        }
+    },
+    {
+        "Year": 2017,
+        "Month": 4,
+        "Condition": "B",
+        "sumAmount": {
+            "ids": [
+                7
+            ],
+            "v": 105
+        }
+    },
+    {
+        "Year": 2017,
+        "Month": 8,
+        "Condition": "B",
+        "sumAmount": {
+            "ids": [],
+            "v": 43
+        }
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "Condition": 1,
+        "Sex": "F",
+        "p": {
+            "ids": [],
+            "v": 7
+        }
+    },
+    {
+        "Condition": 1,
+        "Sex": "M",
+        "p": {
+            "ids": [
+                0
+            ],
+            "v": 7
+        }
+    },
+    {
+        "Condition": 2,
+        "Sex": "F",
+        "p": {
+            "ids": [],
+            "v": 9
+        }
+    },
+    {
+        "Condition": 2,
+        "Sex": "M",
+        "p": {
+            "ids": [
+                1,
+                4
+            ],
+            "v": 6
+        }
+    },
+    {
+        "Condition": 3,
+        "Sex": "F",
+        "p": {
+            "ids": [],
+            "v": 13
+        }
+    },
+    {
+        "Condition": 3,
+        "Sex": "M",
+        "p": {
+            "ids": [],
+            "v": 16
+        }
+    }
+]

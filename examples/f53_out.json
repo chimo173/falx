@@ -1,0 +1,85 @@
+[
+    {
+        "date": "9/1/11",
+        "classes": "english",
+        "count": {
+            "ids": [
+                1
+            ],
+            "v": 1
+        }
+    },
+    {
+        "date": "9/1/11",
+        "classes": "french",
+        "count": {
+            "ids": [
+                0,
+                2
+            ],
+            "v": 2
+        }
+    },
+    {
+        "date": "9/1/11",
+        "classes": "spanish",
+        "count": {
+            "ids": [
+                3
+            ],
+            "v": 1
+        }
+    },
+    {
+        "date": "9/2/11",
+        "classes": "english",
+        "count": {
+            "ids": [
+                5
+            ],
+            "v": 1
+        }
+    },
+    {
+        "date": "9/2/11",
+        "classes": "french",
+        "count": {
+            "ids": [],
+            "v": 1
+        }
+    },
+    {
+        "date": "9/3/11",
+        "classes": "spanish",
+        "count": {
+            "ids": [
+                6
+            ],
+            "v": 2
+        }
+    },
+    {
+        "date": "9/5/11",
+        "classes": "english",
+        "count": {
+            "ids": [],
+            "v": 2
+        }
+    },
+    {
+        "date": "9/5/11",
+        "classes": "french",
+        "count": {
+            "ids": [],
+            "v": 1
+        }
+    },
+    {
+        "date": "9/5/11",
+        "classes": "spanish",
+        "count": {
+            "ids": [],
+            "v": 1
+        }
+    }
+]

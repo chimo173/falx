@@ -1,0 +1,602 @@
+[
+    {
+        "Amount": 25,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 5
+    },
+    {
+        "Amount": 99,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 10
+    },
+    {
+        "Amount": 17,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 6
+    },
+    {
+        "Amount": 61,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 12
+    },
+    {
+        "Amount": 22,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 4
+    },
+    {
+        "Amount": 99,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 12
+    },
+    {
+        "Amount": 63,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 4
+    },
+    {
+        "Amount": 76,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 4
+    },
+    {
+        "Amount": 13,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 9
+    },
+    {
+        "Amount": 23,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 8
+    },
+    {
+        "Amount": 37,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 6
+    },
+    {
+        "Amount": 42,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 8
+    },
+    {
+        "Amount": 29,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 7
+    },
+    {
+        "Amount": 100,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 4
+    },
+    {
+        "Amount": 75,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 12
+    },
+    {
+        "Amount": 48,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 2
+    },
+    {
+        "Amount": 7,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 10
+    },
+    {
+        "Amount": 35,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 9
+    },
+    {
+        "Amount": 4,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 9
+    },
+    {
+        "Amount": 29,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 7
+    },
+    {
+        "Amount": 61,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 6
+    },
+    {
+        "Amount": 5,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 8
+    },
+    {
+        "Amount": 78,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 2
+    },
+    {
+        "Amount": 93,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 10
+    },
+    {
+        "Amount": 72,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 1
+    },
+    {
+        "Amount": 25,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 12
+    },
+    {
+        "Amount": 20,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 5
+    },
+    {
+        "Amount": 36,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 12
+    },
+    {
+        "Amount": 77,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 5
+    },
+    {
+        "Amount": 12,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 10
+    },
+    {
+        "Amount": 74,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 4
+    },
+    {
+        "Amount": 82,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 12
+    },
+    {
+        "Amount": 79,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 7
+    },
+    {
+        "Amount": 67,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 11
+    },
+    {
+        "Amount": 24,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 5
+    },
+    {
+        "Amount": 27,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 3
+    },
+    {
+        "Amount": 4,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 1
+    },
+    {
+        "Amount": 68,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 9
+    },
+    {
+        "Amount": 52,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 12
+    },
+    {
+        "Amount": 7,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 2
+    },
+    {
+        "Amount": 89,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 11
+    },
+    {
+        "Amount": 67,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 3
+    },
+    {
+        "Amount": 89,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 7
+    },
+    {
+        "Amount": 51,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 10
+    },
+    {
+        "Amount": 73,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 7
+    },
+    {
+        "Amount": 97,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 5
+    },
+    {
+        "Amount": 91,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 2
+    },
+    {
+        "Amount": 97,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 7
+    },
+    {
+        "Amount": 54,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 8
+    },
+    {
+        "Amount": 10,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 6
+    },
+    {
+        "Amount": 77,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 1
+    },
+    {
+        "Amount": 6,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 7
+    },
+    {
+        "Amount": 77,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 4
+    },
+    {
+        "Amount": 22,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 7
+    },
+    {
+        "Amount": 25,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 1
+    },
+    {
+        "Amount": 2,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 5
+    },
+    {
+        "Amount": 56,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 6
+    },
+    {
+        "Amount": 14,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 7
+    },
+    {
+        "Amount": 18,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 1
+    },
+    {
+        "Amount": 95,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 2
+    },
+    {
+        "Amount": 58,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 10
+    },
+    {
+        "Amount": 25,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 11
+    },
+    {
+        "Amount": 83,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 6
+    },
+    {
+        "Amount": 9,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 10
+    },
+    {
+        "Amount": 50,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 10
+    },
+    {
+        "Amount": 66,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 3
+    },
+    {
+        "Amount": 29,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 4
+    },
+    {
+        "Amount": 45,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 6
+    },
+    {
+        "Amount": 52,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 6
+    },
+    {
+        "Amount": 10,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 9
+    },
+    {
+        "Amount": 81,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 12
+    },
+    {
+        "Amount": 22,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 3
+    },
+    {
+        "Amount": 46,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 3
+    },
+    {
+        "Amount": 65,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 5
+    },
+    {
+        "Amount": 43,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 5
+    },
+    {
+        "Amount": 60,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 8
+    },
+    {
+        "Amount": 78,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 11
+    },
+    {
+        "Amount": 56,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 3
+    },
+    {
+        "Amount": 43,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 4
+    },
+    {
+        "Amount": 81,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 11
+    },
+    {
+        "Amount": 28,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 10
+    },
+    {
+        "Amount": 48,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 7
+    },
+    {
+        "Amount": 79,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 1
+    },
+    {
+        "Amount": 77,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 12
+    },
+    {
+        "Amount": 39,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 5
+    },
+    {
+        "Amount": 68,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 6
+    },
+    {
+        "Amount": 90,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 12
+    },
+    {
+        "Amount": 93,
+        "Condition": "B",
+        "Year": 2016,
+        "Month": 10
+    },
+    {
+        "Amount": 34,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 7
+    },
+    {
+        "Amount": 4,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 4
+    },
+    {
+        "Amount": 90,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 11
+    },
+    {
+        "Amount": 94,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 9
+    },
+    {
+        "Amount": 43,
+        "Condition": "B",
+        "Year": 2017,
+        "Month": 8
+    },
+    {
+        "Amount": 28,
+        "Condition": "A",
+        "Year": 2017,
+        "Month": 6
+    },
+    {
+        "Amount": 14,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 10
+    },
+    {
+        "Amount": 3,
+        "Condition": "A",
+        "Year": 2015,
+        "Month": 6
+    },
+    {
+        "Amount": 98,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 1
+    },
+    {
+        "Amount": 26,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 6
+    },
+    {
+        "Amount": 93,
+        "Condition": "A",
+        "Year": 2016,
+        "Month": 1
+    },
+    {
+        "Amount": 40,
+        "Condition": "B",
+        "Year": 2015,
+        "Month": 3
+    }
+]

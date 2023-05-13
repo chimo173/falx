@@ -1,0 +1,214 @@
+Order ID,Product,Category,Amount,Date,Country
+1,Carrots,Vegetables,4270,1/6/2012,United States
+2,Broccoli,Vegetables,8239,1/7/2012,United Kingdom
+3,Banana,Fruit,617,1/8/2012,United States
+4,Banana,Fruit,8384,1/10/2012,Canada
+5,Beans,Vegetables,2626,1/10/2012,Germany
+6,Orange,Fruit,3610,1/11/2012,United States
+7,Broccoli,Vegetables,9062,1/11/2012,Australia
+8,Banana,Fruit,6906,1/16/2012,New Zealand
+9,Apple,Fruit,2417,1/16/2012,France
+10,Apple,Fruit,7431,1/16/2012,Canada
+11,Banana,Fruit,8250,1/16/2012,Germany
+12,Broccoli,Vegetables,7012,1/18/2012,United States
+13,Carrots,Vegetables,1903,1/20/2012,Germany
+14,Broccoli,Vegetables,2824,1/22/2012,Canada
+15,Apple,Fruit,6946,1/24/2012,France
+16,Banana,Fruit,2320,1/27/2012,United Kingdom
+17,Banana,Fruit,2116,1/28/2012,United States
+18,Banana,Fruit,1135,1/30/2012,United Kingdom
+19,Broccoli,Vegetables,3595,1/30/2012,United Kingdom
+20,Apple,Fruit,1161,2/2/2012,United States
+21,Orange,Fruit,2256,2/4/2012,France
+22,Banana,Fruit,1004,2/11/2012,New Zealand
+23,Banana,Fruit,3642,2/14/2012,Canada
+24,Banana,Fruit,4582,2/17/2012,United States
+25,Beans,Vegetables,3559,2/17/2012,United Kingdom
+26,Carrots,Vegetables,5154,2/17/2012,Australia
+27,Mango,Fruit,7388,2/18/2012,France
+28,Beans,Vegetables,7163,2/18/2012,United States
+29,Beans,Vegetables,5101,2/20/2012,Germany
+30,Apple,Fruit,7602,2/21/2012,France
+31,Mango,Fruit,1641,2/22/2012,United States
+32,Apple,Fruit,8892,2/23/2012,Australia
+33,Apple,Fruit,2060,2/29/2012,France
+34,Broccoli,Vegetables,1557,2/29/2012,Germany
+35,Apple,Fruit,6509,3/1/2012,France
+36,Apple,Fruit,5718,3/4/2012,Australia
+37,Apple,Fruit,7655,3/5/2012,United States
+38,Carrots,Vegetables,9116,3/5/2012,United Kingdom
+39,Banana,Fruit,2795,3/15/2012,United States
+40,Banana,Fruit,5084,3/15/2012,United States
+41,Carrots,Vegetables,8941,3/15/2012,United Kingdom
+42,Broccoli,Vegetables,5341,3/16/2012,France
+43,Banana,Fruit,135,3/19/2012,Canada
+44,Banana,Fruit,9400,3/19/2012,Australia
+45,Beans,Vegetables,6045,3/21/2012,Germany
+46,Apple,Fruit,5820,3/22/2012,New Zealand
+47,Orange,Fruit,8887,3/23/2012,Germany
+48,Orange,Fruit,6982,3/24/2012,United States
+49,Banana,Fruit,4029,3/26/2012,Australia
+50,Carrots,Vegetables,3665,3/26/2012,Germany
+51,Banana,Fruit,4781,3/29/2012,France
+52,Mango,Fruit,3663,3/30/2012,Australia
+53,Apple,Fruit,6331,4/1/2012,France
+54,Apple,Fruit,4364,4/1/2012,Canada
+55,Carrots,Vegetables,607,4/3/2012,United Kingdom
+56,Banana,Fruit,1054,4/6/2012,New Zealand
+57,Carrots,Vegetables,7659,4/6/2012,United States
+58,Broccoli,Vegetables,277,4/12/2012,Germany
+59,Banana,Fruit,235,4/17/2012,United States
+60,Orange,Fruit,1113,4/18/2012,Australia
+61,Apple,Fruit,1128,4/21/2012,United States
+62,Broccoli,Vegetables,9231,4/22/2012,Canada
+63,Banana,Fruit,4387,4/23/2012,United States
+64,Apple,Fruit,2763,4/25/2012,Canada
+65,Banana,Fruit,7898,4/27/2012,United Kingdom
+66,Banana,Fruit,2427,4/30/2012,France
+67,Banana,Fruit,8663,5/1/2012,New Zealand
+68,Carrots,Vegetables,2789,5/1/2012,Germany
+69,Banana,Fruit,4054,5/2/2012,United States
+70,Mango,Fruit,2262,5/2/2012,United States
+71,Mango,Fruit,5600,5/2/2012,United Kingdom
+72,Banana,Fruit,5787,5/3/2012,United States
+73,Orange,Fruit,6295,5/3/2012,Canada
+74,Banana,Fruit,474,5/5/2012,Germany
+75,Apple,Fruit,4325,5/5/2012,France
+76,Banana,Fruit,592,5/6/2012,United States
+77,Orange,Fruit,4330,5/8/2012,United States
+78,Banana,Fruit,9405,5/8/2012,United Kingdom
+79,Apple,Fruit,7671,5/8/2012,France
+80,Carrots,Vegetables,5791,5/8/2012,United Kingdom
+81,Banana,Fruit,6007,5/12/2012,Canada
+82,Banana,Fruit,5030,5/14/2012,Germany
+83,Carrots,Vegetables,6763,5/14/2012,United Kingdom
+84,Banana,Fruit,4248,5/15/2012,Australia
+85,Banana,Fruit,9543,5/16/2012,France
+86,Broccoli,Vegetables,2054,5/16/2012,United Kingdom
+87,Beans,Vegetables,7094,5/16/2012,Germany
+88,Carrots,Vegetables,6087,5/18/2012,United States
+89,Apple,Fruit,4264,5/19/2012,Australia
+90,Mango,Fruit,9333,5/20/2012,United States
+91,Mango,Fruit,8775,5/22/2012,Germany
+92,Broccoli,Vegetables,2011,5/23/2012,United Kingdom
+93,Banana,Fruit,5632,5/25/2012,United States
+94,Banana,Fruit,4904,5/25/2012,New Zealand
+95,Beans,Vegetables,1002,5/25/2012,Australia
+96,Orange,Fruit,8141,5/26/2012,United Kingdom
+97,Orange,Fruit,3644,5/26/2012,Canada
+98,Orange,Fruit,1380,5/26/2012,Australia
+99,Broccoli,Vegetables,8354,5/26/2012,Germany
+100,Banana,Fruit,5182,5/27/2012,United States
+101,Apple,Fruit,2193,5/27/2012,France
+102,Mango,Fruit,3647,5/28/2012,United States
+103,Apple,Fruit,4104,5/28/2012,United States
+104,Carrots,Vegetables,7457,5/28/2012,United States
+105,Mango,Fruit,3767,5/29/2012,Canada
+106,Broccoli,Vegetables,4685,5/30/2012,Germany
+107,Banana,Fruit,3917,6/4/2012,United States
+108,Apple,Fruit,521,6/4/2012,Canada
+109,Apple,Fruit,5605,6/10/2012,France
+110,Broccoli,Vegetables,9630,6/11/2012,Germany
+111,Banana,Fruit,6941,6/20/2012,Canada
+112,Broccoli,Vegetables,7231,6/20/2012,United Kingdom
+113,Broccoli,Vegetables,8891,6/23/2012,Australia
+114,Banana,Fruit,107,6/25/2012,France
+115,Banana,Fruit,4243,6/26/2012,United States
+116,Orange,Fruit,4514,6/27/2012,United States
+117,Mango,Fruit,5480,7/2/2012,United States
+118,Banana,Fruit,5002,7/2/2012,France
+119,Banana,Fruit,8530,7/5/2012,Canada
+120,Orange,Fruit,4819,7/7/2012,New Zealand
+121,Broccoli,Vegetables,6343,7/11/2012,United Kingdom
+122,Orange,Fruit,2318,7/13/2012,United Kingdom
+123,Orange,Fruit,220,7/20/2012,United Kingdom
+124,Orange,Fruit,6341,7/20/2012,New Zealand
+125,Apple,Fruit,330,7/20/2012,Germany
+126,Broccoli,Vegetables,3027,7/20/2012,United Kingdom
+127,Orange,Fruit,850,7/22/2012,New Zealand
+128,Banana,Fruit,8986,7/23/2012,United Kingdom
+129,Broccoli,Vegetables,3800,7/25/2012,United States
+130,Carrots,Vegetables,5751,7/28/2012,United Kingdom
+131,Apple,Fruit,1704,7/29/2012,United Kingdom
+132,Banana,Fruit,7966,7/30/2012,Australia
+133,Banana,Fruit,852,7/31/2012,United States
+134,Beans,Vegetables,8416,7/31/2012,Australia
+135,Banana,Fruit,7144,8/1/2012,France
+136,Broccoli,Vegetables,7854,8/1/2012,United States
+137,Orange,Fruit,859,8/3/2012,United States
+138,Broccoli,Vegetables,8049,8/12/2012,United States
+139,Banana,Fruit,2836,8/13/2012,Germany
+140,Carrots,Vegetables,1743,8/19/2012,United States
+141,Apple,Fruit,3844,8/23/2012,France
+142,Apple,Fruit,7490,8/24/2012,France
+143,Broccoli,Vegetables,4483,8/25/2012,Germany
+144,Apple,Fruit,7333,8/27/2012,Canada
+145,Carrots,Vegetables,7654,8/28/2012,United States
+146,Apple,Fruit,3944,8/29/2012,United Kingdom
+147,Beans,Vegetables,5761,8/29/2012,Germany
+148,Banana,Fruit,6864,9/1/2012,New Zealand
+149,Banana,Fruit,4016,9/1/2012,Germany
+150,Banana,Fruit,1841,9/2/2012,United States
+151,Banana,Fruit,424,9/5/2012,Australia
+152,Banana,Fruit,8765,9/7/2012,United Kingdom
+153,Banana,Fruit,5583,9/8/2012,United States
+154,Broccoli,Vegetables,4390,9/9/2012,New Zealand
+155,Broccoli,Vegetables,352,9/9/2012,Canada
+156,Apple,Fruit,8489,9/11/2012,United States
+157,Banana,Fruit,7090,9/11/2012,France
+158,Banana,Fruit,7880,9/15/2012,United States
+159,Orange,Fruit,3861,9/18/2012,United States
+160,Broccoli,Vegetables,7927,9/19/2012,Germany
+161,Banana,Fruit,6162,9/20/2012,United States
+162,Mango,Fruit,5523,9/25/2012,Australia
+163,Broccoli,Vegetables,5936,9/25/2012,United Kingdom
+164,Carrots,Vegetables,7251,9/26/2012,Germany
+165,Orange,Fruit,6187,9/27/2012,Australia
+166,Banana,Fruit,3210,9/29/2012,Germany
+167,Carrots,Vegetables,682,9/29/2012,Germany
+168,Banana,Fruit,793,10/3/2012,Australia
+169,Carrots,Vegetables,5346,10/4/2012,Germany
+170,Banana,Fruit,7103,10/7/2012,New Zealand
+171,Carrots,Vegetables,4603,10/10/2012,United States
+172,Apple,Fruit,8160,10/16/2012,France
+173,Apple,Fruit,7171,10/23/2012,United Kingdom
+174,Banana,Fruit,3552,10/23/2012,New Zealand
+175,Banana,Fruit,7273,10/25/2012,Australia
+176,Banana,Fruit,2402,10/26/2012,Germany
+177,Banana,Fruit,1197,10/26/2012,Australia
+178,Beans,Vegetables,5015,10/26/2012,Australia
+179,Orange,Fruit,5818,11/2/2012,United States
+180,Banana,Fruit,4399,11/3/2012,United Kingdom
+181,Carrots,Vegetables,3011,11/3/2012,United States
+182,Apple,Fruit,4715,11/9/2012,United Kingdom
+183,Apple,Fruit,5321,11/12/2012,France
+184,Banana,Fruit,8894,11/15/2012,United States
+185,Carrots,Vegetables,4846,11/25/2012,United Kingdom
+186,Broccoli,Vegetables,284,11/25/2012,Germany
+187,Orange,Fruit,8283,11/26/2012,United Kingdom
+188,Orange,Fruit,9990,11/28/2012,Canada
+189,Banana,Fruit,9014,11/28/2012,Australia
+190,Apple,Fruit,1942,11/29/2012,France
+191,Banana,Fruit,7223,11/30/2012,United States
+192,Carrots,Vegetables,4673,12/2/2012,United States
+193,Carrots,Vegetables,9104,12/4/2012,France
+194,Apple,Fruit,6078,12/5/2012,United States
+195,Beans,Vegetables,3278,12/6/2012,Germany
+196,Banana,Fruit,136,12/12/2012,Canada
+197,Banana,Fruit,8377,12/12/2012,Australia
+198,Banana,Fruit,2382,12/12/2012,United States
+199,Banana,Fruit,8702,12/15/2012,Germany
+200,Banana,Fruit,5021,12/16/2012,United States
+201,Apple,Fruit,1760,12/16/2012,Australia
+202,Banana,Fruit,4766,12/18/2012,Germany
+203,Beans,Vegetables,1541,12/19/2012,United Kingdom
+204,Orange,Fruit,2782,12/20/2012,United Kingdom
+205,Apple,Fruit,2455,12/20/2012,Canada
+206,Apple,Fruit,4512,12/22/2012,New Zealand
+207,Apple,Fruit,8752,12/22/2012,Germany
+208,Carrots,Vegetables,9127,12/25/2012,United States
+209,Apple,Fruit,1777,12/28/2012,France
+210,Beans,Vegetables,680,12/28/2012,France
+211,Orange,Fruit,958,12/29/2012,United States
+212,Carrots,Vegetables,2613,12/29/2012,Australia
+213,Carrots,Vegetables,339,12/30/2012,Australia

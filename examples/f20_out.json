@@ -1,0 +1,366 @@
+[
+    {
+        "Product": "Apple",
+        "Country": "Australia",
+        "AmountS": {
+            "ids": [],
+            "v": 20634
+        }
+    },
+    {
+        "Product": "Apple",
+        "Country": "Canada",
+        "AmountS": {
+            "ids": [],
+            "v": 24867
+        }
+    },
+    {
+        "Product": "Apple",
+        "Country": "France",
+        "AmountS": {
+            "ids": [],
+            "v": 80193
+        }
+    },
+    {
+        "Product": "Apple",
+        "Country": "Germany",
+        "AmountS": {
+            "ids": [],
+            "v": 9082
+        }
+    },
+    {
+        "Product": "Apple",
+        "Country": "New Zealand",
+        "AmountS": {
+            "ids": [],
+            "v": 10332
+        }
+    },
+    {
+        "Product": "Apple",
+        "Country": "United Kingdom",
+        "AmountS": {
+            "ids": [],
+            "v": 17534
+        }
+    },
+    {
+        "Product": "Apple",
+        "Country": "United States",
+        "AmountS": {
+            "ids": [],
+            "v": 28615
+        }
+    },
+    {
+        "Product": "Banana",
+        "Country": "Australia",
+        "AmountS": {
+            "ids": [],
+            "v": 52721
+        }
+    },
+    {
+        "Product": "Banana",
+        "Country": "Canada",
+        "AmountS": {
+            "ids": [
+                3
+            ],
+            "v": 33775
+        }
+    },
+    {
+        "Product": "Banana",
+        "Country": "France",
+        "AmountS": {
+            "ids": [],
+            "v": 36094
+        }
+    },
+    {
+        "Product": "Banana",
+        "Country": "Germany",
+        "AmountS": {
+            "ids": [],
+            "v": 39686
+        }
+    },
+    {
+        "Product": "Banana",
+        "Country": "New Zealand",
+        "AmountS": {
+            "ids": [],
+            "v": 40050
+        }
+    },
+    {
+        "Product": "Banana",
+        "Country": "United Kingdom",
+        "AmountS": {
+            "ids": [],
+            "v": 42908
+        }
+    },
+    {
+        "Product": "Banana",
+        "Country": "United States",
+        "AmountS": {
+            "ids": [
+                2
+            ],
+            "v": 95061
+        }
+    },
+    {
+        "Product": "Beans",
+        "Country": "Australia",
+        "AmountS": {
+            "ids": [],
+            "v": 14433
+        }
+    },
+    {
+        "Product": "Beans",
+        "Country": "France",
+        "AmountS": {
+            "ids": [],
+            "v": 680
+        }
+    },
+    {
+        "Product": "Beans",
+        "Country": "Germany",
+        "AmountS": {
+            "ids": [],
+            "v": 29905
+        }
+    },
+    {
+        "Product": "Beans",
+        "Country": "United Kingdom",
+        "AmountS": {
+            "ids": [],
+            "v": 5100
+        }
+    },
+    {
+        "Product": "Beans",
+        "Country": "United States",
+        "AmountS": {
+            "ids": [],
+            "v": 7163
+        }
+    },
+    {
+        "Product": "Broccoli",
+        "Country": "Australia",
+        "AmountS": {
+            "ids": [
+                6
+            ],
+            "v": 17953
+        }
+    },
+    {
+        "Product": "Broccoli",
+        "Country": "Canada",
+        "AmountS": {
+            "ids": [],
+            "v": 12407
+        }
+    },
+    {
+        "Product": "Broccoli",
+        "Country": "France",
+        "AmountS": {
+            "ids": [],
+            "v": 5341
+        }
+    },
+    {
+        "Product": "Broccoli",
+        "Country": "Germany",
+        "AmountS": {
+            "ids": [],
+            "v": 37197
+        }
+    },
+    {
+        "Product": "Broccoli",
+        "Country": "New Zealand",
+        "AmountS": {
+            "ids": [],
+            "v": 4390
+        }
+    },
+    {
+        "Product": "Broccoli",
+        "Country": "United Kingdom",
+        "AmountS": {
+            "ids": [
+                1
+            ],
+            "v": 38436
+        }
+    },
+    {
+        "Product": "Broccoli",
+        "Country": "United States",
+        "AmountS": {
+            "ids": [],
+            "v": 26715
+        }
+    },
+    {
+        "Product": "Carrots",
+        "Country": "Australia",
+        "AmountS": {
+            "ids": [],
+            "v": 8106
+        }
+    },
+    {
+        "Product": "Carrots",
+        "Country": "France",
+        "AmountS": {
+            "ids": [],
+            "v": 9104
+        }
+    },
+    {
+        "Product": "Carrots",
+        "Country": "Germany",
+        "AmountS": {
+            "ids": [],
+            "v": 21636
+        }
+    },
+    {
+        "Product": "Carrots",
+        "Country": "United Kingdom",
+        "AmountS": {
+            "ids": [],
+            "v": 41815
+        }
+    },
+    {
+        "Product": "Carrots",
+        "Country": "United States",
+        "AmountS": {
+            "ids": [
+                0
+            ],
+            "v": 56284
+        }
+    },
+    {
+        "Product": "Mango",
+        "Country": "Australia",
+        "AmountS": {
+            "ids": [],
+            "v": 9186
+        }
+    },
+    {
+        "Product": "Mango",
+        "Country": "Canada",
+        "AmountS": {
+            "ids": [],
+            "v": 3767
+        }
+    },
+    {
+        "Product": "Mango",
+        "Country": "France",
+        "AmountS": {
+            "ids": [],
+            "v": 7388
+        }
+    },
+    {
+        "Product": "Mango",
+        "Country": "Germany",
+        "AmountS": {
+            "ids": [],
+            "v": 8775
+        }
+    },
+    {
+        "Product": "Mango",
+        "Country": "United Kingdom",
+        "AmountS": {
+            "ids": [],
+            "v": 5600
+        }
+    },
+    {
+        "Product": "Mango",
+        "Country": "United States",
+        "AmountS": {
+            "ids": [],
+            "v": 22363
+        }
+    },
+    {
+        "Product": "Orange",
+        "Country": "Australia",
+        "AmountS": {
+            "ids": [],
+            "v": 8680
+        }
+    },
+    {
+        "Product": "Orange",
+        "Country": "Canada",
+        "AmountS": {
+            "ids": [],
+            "v": 19929
+        }
+    },
+    {
+        "Product": "Orange",
+        "Country": "France",
+        "AmountS": {
+            "ids": [],
+            "v": 2256
+        }
+    },
+    {
+        "Product": "Orange",
+        "Country": "Germany",
+        "AmountS": {
+            "ids": [],
+            "v": 8887
+        }
+    },
+    {
+        "Product": "Orange",
+        "Country": "New Zealand",
+        "AmountS": {
+            "ids": [],
+            "v": 12010
+        }
+    },
+    {
+        "Product": "Orange",
+        "Country": "United Kingdom",
+        "AmountS": {
+            "ids": [],
+            "v": 21744
+        }
+    },
+    {
+        "Product": "Orange",
+        "Country": "United States",
+        "AmountS": {
+            "ids": [
+                5
+            ],
+            "v": 30932
+        }
+    }
+]

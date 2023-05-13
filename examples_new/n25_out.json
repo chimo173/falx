@@ -1,0 +1,35 @@
+[
+    {
+        "category_senti": "Negative",
+        "artist_id": "01_artist",
+        "ratio": {
+            "ids": [
+                0,
+                1
+            ],
+            "v": 0.5
+        }
+    },
+    {
+        "category_senti": "Negative",
+        "artist_id": "03_artist",
+        "ratio": {
+            "ids": [
+                5,
+                6
+            ],
+            "v": 0.4
+        }
+    },
+    {
+        "category_senti": "Positive",
+        "artist_id": "03_artist",
+        "ratio": {
+            "ids": [
+                5,
+                6
+            ],
+            "v": 0.2
+        }
+    }
+]

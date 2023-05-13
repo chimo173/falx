@@ -1,0 +1,61 @@
+Month,variable,value
+Apr-15,Low (<50%},50.0
+May-15,Low (<50%},50.0
+Jun-15,Low (<50%},50.0
+Jul-15,Low (<50%},50.0
+Aug-15,Low (<50%},50.0
+Sep-15,Low (<50%},50.0
+Oct-15,Low (<50%},50.0
+Nov-15,Low (<50%},50.0
+Dec-15,Low (<50%},50.0
+Jan-16,Low (<50%},50.0
+Feb-16,Low (<50%},50.0
+Mar-16,Low (<50%},50.0
+Apr-15,Medium (50%-80%},30.0
+May-15,Medium (50%-80%},30.0
+Jun-15,Medium (50%-80%},30.0
+Jul-15,Medium (50%-80%},30.0
+Aug-15,Medium (50%-80%},30.0
+Sep-15,Medium (50%-80%},30.0
+Oct-15,Medium (50%-80%},30.0
+Nov-15,Medium (50%-80%},30.0
+Dec-15,Medium (50%-80%},30.0
+Jan-16,Medium (50%-80%},30.0
+Feb-16,Medium (50%-80%},30.0
+Mar-16,Medium (50%-80%},30.0
+Apr-15,High (>80%),20.0
+May-15,High (>80%),20.0
+Jun-15,High (>80%),20.0
+Jul-15,High (>80%),20.0
+Aug-15,High (>80%),20.0
+Sep-15,High (>80%),20.0
+Oct-15,High (>80%),20.0
+Nov-15,High (>80%),20.0
+Dec-15,High (>80%),20.0
+Jan-16,High (>80%),20.0
+Feb-16,High (>80%),20.0
+Mar-16,High (>80%),20.0
+Apr-15,East,86.4
+May-15,East,45.8
+Jun-15,East,44.1
+Jul-15,East,77.6
+Aug-15,East,80.7
+Sep-15,East,83.7
+Oct-15,East,78.8
+Nov-15,East,76.0
+Dec-15,East,79.0
+Jan-16,East,77.0
+Feb-16,East,67.1
+Mar-16,East,45.8
+Apr-15,West,63.0
+May-15,West,58.9
+Jun-15,West,81.6
+Jul-15,West,86.1
+Aug-15,West,95.0
+Sep-15,West,78.2
+Oct-15,West,98.9
+Nov-15,West,88.3
+Dec-15,West,75.5
+Jan-16,West,72.1
+Feb-16,West,93.1
+Mar-16,West,95.7

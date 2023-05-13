@@ -1,0 +1,32 @@
+[
+    {
+        "cuts": "c1",
+        "categories": "c",
+        "ratio": {
+            "ids": [],
+            "v": 4.0
+        }
+    },
+    {
+        "cuts": "c2",
+        "categories": "aa",
+        "ratio": {
+            "ids": [
+                0,
+                1,
+                2
+            ],
+            "v": 0.25
+        }
+    },
+    {
+        "cuts": "c2",
+        "categories": "bb",
+        "ratio": {
+            "ids": [
+                3
+            ],
+            "v": 1.0
+        }
+    }
+]

@@ -1,0 +1,45 @@
+Product,Country,Amount
+Apple,Australia,20634
+Apple,Canada,24867
+Apple,France,80193
+Apple,Germany,9082
+Apple,New Zealand,10332
+Apple,United Kingdom,17534
+Apple,United States,28615
+Banana,Australia,52721
+Banana,Canada,33775
+Banana,France,36094
+Banana,Germany,39686
+Banana,New Zealand,40050
+Banana,United Kingdom,42908
+Banana,United States,95061
+Beans,Australia,14433
+Beans,France,680
+Beans,Germany,29905
+Beans,United Kingdom,5100
+Beans,United States,7163
+Broccoli,Australia,17953
+Broccoli,Canada,12407
+Broccoli,France,5341
+Broccoli,Germany,37197
+Broccoli,New Zealand,4390
+Broccoli,United Kingdom,38436
+Broccoli,United States,26715
+Carrots,Australia,8106
+Carrots,France,9104
+Carrots,Germany,21636
+Carrots,United Kingdom,41815
+Carrots,United States,56284
+Mango,Australia,9186
+Mango,Canada,3767
+Mango,France,7388
+Mango,Germany,8775
+Mango,United Kingdom,5600
+Mango,United States,22363
+Orange,Australia,8680
+Orange,Canada,19929
+Orange,France,2256
+Orange,Germany,8887
+Orange,New Zealand,12010
+Orange,United Kingdom,21744
+Orange,United States,30932

@@ -1,0 +1,42 @@
+[
+    {
+        "location": "location1",
+        "Available": {
+            "ids": [
+                1
+            ],
+            "v": 1
+        },
+        "Owned": {
+            "ids": [
+                0,
+                2
+            ],
+            "v": 2
+        },
+        "no status": null
+    },
+    {
+        "location": "location2",
+        "Available": null,
+        "Owned": {
+            "ids": [
+                3
+            ],
+            "v": 4
+        },
+        "no status": {
+            "ids": [],
+            "v": 1
+        }
+    },
+    {
+        "location": "location3",
+        "Available": null,
+        "Owned": {
+            "ids": [],
+            "v": 2
+        },
+        "no status": null
+    }
+]

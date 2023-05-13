@@ -1,0 +1,350 @@
+[
+    {
+        "label": "Category 1",
+        "variable": "2008",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 61
+        }
+    },
+    {
+        "label": "Category 2",
+        "variable": "2008",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 128
+        }
+    },
+    {
+        "label": "Category 3",
+        "variable": "2008",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 12
+        }
+    },
+    {
+        "label": "Category 4",
+        "variable": "2008",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 93
+        }
+    },
+    {
+        "label": "Category 5",
+        "variable": "2008",
+        "value": {
+            "ids": [],
+            "v": 88
+        }
+    },
+    {
+        "label": "Category 6",
+        "variable": "2008",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 22
+        }
+    },
+    {
+        "label": "Category 1",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 70
+        }
+    },
+    {
+        "label": "Category 2",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 22
+        }
+    },
+    {
+        "label": "Category 3",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 95
+        }
+    },
+    {
+        "label": "Category 4",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 24
+        }
+    },
+    {
+        "label": "Category 5",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 73
+        }
+    },
+    {
+        "label": "Category 6",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 28
+        }
+    },
+    {
+        "label": "Category 1",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 4
+        }
+    },
+    {
+        "label": "Category 2",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 91
+        }
+    },
+    {
+        "label": "Category 3",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 35
+        }
+    },
+    {
+        "label": "Category 4",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 16
+        }
+    },
+    {
+        "label": "Category 5",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 129
+        }
+    },
+    {
+        "label": "Category 6",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 94
+        }
+    },
+    {
+        "label": "Category 1",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 55
+        }
+    },
+    {
+        "label": "Category 2",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 61
+        }
+    },
+    {
+        "label": "Category 3",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 12
+        }
+    },
+    {
+        "label": "Category 4",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 27
+        }
+    },
+    {
+        "label": "Category 5",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 23
+        }
+    },
+    {
+        "label": "Category 6",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 74
+        }
+    },
+    {
+        "label": "Category 1",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 144
+        }
+    },
+    {
+        "label": "Category 2",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 55
+        }
+    },
+    {
+        "label": "Category 3",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 22
+        }
+    },
+    {
+        "label": "Category 4",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 55
+        }
+    },
+    {
+        "label": "Category 5",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 101
+        }
+    },
+    {
+        "label": "Category 6",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 60
+        }
+    },
+    {
+        "label": "Category 1",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 132
+        }
+    },
+    {
+        "label": "Category 2",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 47
+        }
+    },
+    {
+        "label": "Category 3",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 82
+        }
+    },
+    {
+        "label": "Category 4",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 13
+        }
+    },
+    {
+        "label": "Category 5",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 23
+        }
+    },
+    {
+        "label": "Category 6",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 83
+        }
+    }
+]

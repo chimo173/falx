@@ -1,0 +1,1532 @@
+[
+    {
+        "Location": "United States",
+        "Rae": "White",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 13.3
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Black or African American",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 18.1
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 29.2
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Asian",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 14.8
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 17.3
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Other Race",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 34.1
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Two or more races",
+        "variable": "2009",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 14.5
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 10.7
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Hispanic or Latino",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 31.0
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 16.3
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Black or African American",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 15.9
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 30.6
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Asian",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 15.0
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 25.5
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Other Race",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 23.7
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Two or more races",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 14.3
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 11.1
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Hispanic or Latino",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 27.9
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 17.6
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Black or African American",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 16.4
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 16.4
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Asian",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 37.6
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 14.5
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Other Race",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 23.3
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Two or more races",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 25.3
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 15.1
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Hispanic or Latino",
+        "variable": "2009",
+        "value": {
+            "ids": [],
+            "v": 11.0
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 13.7
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Black or African American",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 18.2
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 29.2
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Asian",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 15.7
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 17.4
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Other Race",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 34.6
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Two or more races",
+        "variable": "2010",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 14.9
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 10.9
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Hispanic or Latino",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 30.9
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 15.6
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Black or African American",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 15.3
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 30.8
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Asian",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 12.1
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 11.9
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Other Race",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 27.1
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Two or more races",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 14.7
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 10.9
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Hispanic or Latino",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 27.4
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 16.2
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Black or African American",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 16.3
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 40.5
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Asian",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 11.1
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 13.1
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Other Race",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 28.4
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Two or more races",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 14.1
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 10.6
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Hispanic or Latino",
+        "variable": "2010",
+        "value": {
+            "ids": [],
+            "v": 29.9
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 13.4
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Black or African American",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 17.7
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 27.6
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Asian",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 15.4
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 18.5
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Other Race",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 33.6
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Two or more races",
+        "variable": "2011",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 14.4
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 10.7
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Hispanic or Latino",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 29.8
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 15.7
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Black or African American",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 18.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 27.5
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Asian",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 15.1
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 30.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Other Race",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 28.4
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Two or more races",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 18.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 10.9
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Hispanic or Latino",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 27.8
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 16.2
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Black or African American",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 18.7
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 33.9
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Asian",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 16.2
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 31.4
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Other Race",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 32.9
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Two or more races",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 18.7
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 10.5
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Hispanic or Latino",
+        "variable": "2011",
+        "value": {
+            "ids": [],
+            "v": 30.6
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 13.1
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Black or African American",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 17.3
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 27.4
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Asian",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 15.0
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 18.0
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Other Race",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 32.3
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Two or more races",
+        "variable": "2012",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 14.0
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 10.4
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Hispanic or Latino",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 29.0
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 16.0
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Black or African American",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 16.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 29.3
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Asian",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 16.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 16.6
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Other Race",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 31.0
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Two or more races",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 16.5
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 11.3
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Hispanic or Latino",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 28.3
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 16.4
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Black or African American",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 16.9
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 30.8
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Asian",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 17.3
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 16.1
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Other Race",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 32.1
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Two or more races",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 14.3
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 10.8
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Hispanic or Latino",
+        "variable": "2012",
+        "value": {
+            "ids": [],
+            "v": 30.6
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 12.9
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Black or African American",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 17.1
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 26.9
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Asian",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 14.6
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 17.9
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Other Race",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 31.7
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Two or more races",
+        "variable": "2013",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 13.2
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 10.2
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Hispanic or Latino",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 28.4
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 15.7
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Black or African American",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 17.4
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 26.9
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Asian",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 15.1
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 21.3
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Other Race",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 30.1
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Two or more races",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 15.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 11.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Hispanic or Latino",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 27.5
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 16.3
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Black or African American",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 17.9
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 14.8
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Asian",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 15.0
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 29.9
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Other Race",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 32.8
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Two or more races",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 15.3
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 10.9
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Hispanic or Latino",
+        "variable": "2013",
+        "value": {
+            "ids": [],
+            "v": 30.3
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White",
+        "variable": "2014",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 10.4
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Black or African American",
+        "variable": "2014",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 13.6
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2014",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 23.1
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Asian",
+        "variable": "2014",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 10.6
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 13.5
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Other Race",
+        "variable": "2014",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 26.1
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Two or more races",
+        "variable": "2014",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 10.4
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 8.1
+        }
+    },
+    {
+        "Location": "United States",
+        "Rae": "Hispanic or Latino",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 23.5
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 12.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Black or African American",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 11.1
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 24.1
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Asian",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 11.0
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 18.4
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Other Race",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 27.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Two or more races",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 13.2
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 8.6
+        }
+    },
+    {
+        "Location": "Arizona",
+        "Rae": "Hispanic or Latino",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 22.2
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 12.4
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Black or African American",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 11.6
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "American Indian or Alaska Native",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 29.6
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Asian",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 10.2
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Native Hawaiian or Pacific Islander",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 14.6
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Other Race",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 27.6
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Two or more races",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 13.9
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "White,not Hispanic or Latino",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 8.1
+        }
+    },
+    {
+        "Location": "Maricopa",
+        "Rae": "Hispanic or Latino",
+        "variable": "2014",
+        "value": {
+            "ids": [],
+            "v": 23.9
+        }
+    }
+]

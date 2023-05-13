@@ -1,0 +1,52 @@
+[
+    {
+        "Rank": "A",
+        "Status": "Incomplete",
+        "Count": 602
+    },
+    {
+        "Rank": "A",
+        "Status": "Complete",
+        "Count": 9443
+    },
+    {
+        "Rank": "B",
+        "Status": "Incomplete",
+        "Count": 1425
+    },
+    {
+        "Rank": "B",
+        "Status": "Complete",
+        "Count": 10250
+    },
+    {
+        "Rank": "C",
+        "Status": "Incomplete",
+        "Count": 1347
+    },
+    {
+        "Rank": "C",
+        "Status": "Complete",
+        "Count": 6487
+    },
+    {
+        "Rank": "D",
+        "Status": "Incomplete",
+        "Count": 1118
+    },
+    {
+        "Rank": "D",
+        "Status": "Complete",
+        "Count": 3967
+    },
+    {
+        "Rank": "E",
+        "Status": "Incomplete",
+        "Count": 715
+    },
+    {
+        "Rank": "E",
+        "Status": "Complete",
+        "Count": 1948
+    }
+]

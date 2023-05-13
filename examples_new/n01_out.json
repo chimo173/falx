@@ -1,0 +1,42 @@
+[
+    {
+        "DayOfWeek": "Friday",
+        "result": {
+            "ids": [],
+            "v": 3.0
+        }
+    },
+    {
+        "DayOfWeek": "Saturday",
+        "result": {
+            "ids": [
+                5
+            ],
+            "v": 3.0
+        }
+    },
+    {
+        "DayOfWeek": "Sunday",
+        "result": {
+            "ids": [],
+            "v": 1.0
+        }
+    },
+    {
+        "DayOfWeek": "Thursday",
+        "result": {
+            "ids": [
+                0,
+                2
+            ],
+            "v": 2.5
+        }
+    },
+    {
+        "DayOfWeek": "Wednesday",
+        "result": {
+            "ids": [],
+            "v": 1.0
+        }
+    }
+]

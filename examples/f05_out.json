@@ -1,0 +1,234 @@
+[
+    {
+        "Month": "Jan",
+        "variable": "Sales",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 10
+        }
+    },
+    {
+        "Month": "Feb",
+        "variable": "Sales",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Mar",
+        "variable": "Sales",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Apr",
+        "variable": "Sales",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 40
+        }
+    },
+    {
+        "Month": "May",
+        "variable": "Sales",
+        "value": {
+            "ids": [],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Jun",
+        "variable": "Sales",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 60
+        }
+    },
+    {
+        "Month": "Jan",
+        "variable": "Cost",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 6
+        }
+    },
+    {
+        "Month": "Feb",
+        "variable": "Cost",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 15
+        }
+    },
+    {
+        "Month": "Mar",
+        "variable": "Cost",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 24
+        }
+    },
+    {
+        "Month": "Apr",
+        "variable": "Cost",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 33
+        }
+    },
+    {
+        "Month": "May",
+        "variable": "Cost",
+        "value": {
+            "ids": [],
+            "v": 42
+        }
+    },
+    {
+        "Month": "Jun",
+        "variable": "Cost",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 51
+        }
+    },
+    {
+        "Month": "Jan",
+        "variable": "Profit",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 4
+        }
+    },
+    {
+        "Month": "Feb",
+        "variable": "Profit",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 5
+        }
+    },
+    {
+        "Month": "Mar",
+        "variable": "Profit",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 6
+        }
+    },
+    {
+        "Month": "Apr",
+        "variable": "Profit",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 7
+        }
+    },
+    {
+        "Month": "May",
+        "variable": "Profit",
+        "value": {
+            "ids": [],
+            "v": 8
+        }
+    },
+    {
+        "Month": "Jun",
+        "variable": "Profit",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 9
+        }
+    },
+    {
+        "Month": "Jan",
+        "variable": "ROI",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 66.67
+        }
+    },
+    {
+        "Month": "Feb",
+        "variable": "ROI",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 33.33
+        }
+    },
+    {
+        "Month": "Mar",
+        "variable": "ROI",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 25.0
+        }
+    },
+    {
+        "Month": "Apr",
+        "variable": "ROI",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 21.21
+        }
+    },
+    {
+        "Month": "May",
+        "variable": "ROI",
+        "value": {
+            "ids": [],
+            "v": 19.05
+        }
+    },
+    {
+        "Month": "Jun",
+        "variable": "ROI",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 17.65
+        }
+    }
+]

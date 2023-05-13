@@ -1,0 +1,137 @@
+[
+    {
+        "variable": "Y1",
+        "lower range": {
+            "ids": [
+                3
+            ],
+            "v": 0.39
+        },
+        "means": {
+            "ids": [
+                0
+            ],
+            "v": 0.52
+        },
+        "stddev": {
+            "ids": [
+                1
+            ],
+            "v": 0.1328
+        },
+        "upper range": {
+            "ids": [
+                2
+            ],
+            "v": 0.66
+        }
+    },
+    {
+        "variable": "Y2",
+        "lower range": {
+            "ids": [
+                3
+            ],
+            "v": 0.44
+        },
+        "means": {
+            "ids": [
+                0
+            ],
+            "v": 0.57
+        },
+        "stddev": {
+            "ids": [
+                1
+            ],
+            "v": 0.1321
+        },
+        "upper range": {
+            "ids": [
+                2
+            ],
+            "v": 0.7
+        }
+    },
+    {
+        "variable": "Y3",
+        "lower range": {
+            "ids": [
+                3
+            ],
+            "v": 0.47
+        },
+        "means": {
+            "ids": [
+                0
+            ],
+            "v": 0.6
+        },
+        "stddev": {
+            "ids": [
+                1
+            ],
+            "v": 0.1303
+        },
+        "upper range": {
+            "ids": [
+                2
+            ],
+            "v": 0.73
+        }
+    },
+    {
+        "variable": "Y4",
+        "lower range": {
+            "ids": [
+                3
+            ],
+            "v": 0.5
+        },
+        "means": {
+            "ids": [
+                0
+            ],
+            "v": 0.63
+        },
+        "stddev": {
+            "ids": [
+                1
+            ],
+            "v": 0.1266
+        },
+        "upper range": {
+            "ids": [
+                2
+            ],
+            "v": 0.75
+        }
+    },
+    {
+        "variable": "Y5",
+        "lower range": {
+            "ids": [
+                3
+            ],
+            "v": 0.51
+        },
+        "means": {
+            "ids": [
+                0
+            ],
+            "v": 0.63
+        },
+        "stddev": {
+            "ids": [
+                1
+            ],
+            "v": 0.1225
+        },
+        "upper range": {
+            "ids": [
+                2
+            ],
+            "v": 0.75
+        }
+    }
+]

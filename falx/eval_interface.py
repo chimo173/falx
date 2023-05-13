@@ -1,4 +1,5 @@
 import json
+import logging
 
 from falx.chart import VisDesign
 from falx.matplotlib_chart import MatplotlibChart
@@ -26,26 +27,50 @@ def check_trace_consistency(vis_prog, orig_trace):
 class FalxEvalInterface(object):
 
     @staticmethod
-    def synthesize(inputs, full_trace, num_samples=2, extra_consts=[], backend="vegalite", prune="falx"):
+    def synthesize(inputs, outputs=[], full_trace=[], num_samples=2, extra_consts=[], backend="vegalite", prune="falx"):
         """synthesize table prog and vis prog from input and output traces"""
-        assert backend == "vegalite" or backend == "matplotlib"
-        assert prune == "falx" or prune == "morpheus" or prune == "forward" or prune == "none" or prune == "backward"
-        candidates = []
+        # assert backend == "vegalite" or backend == "matplotlib"
+        # assert prune == "falx" or prune == "morpheus" or prune == "forward" or prune == "none" or prune == "backward"
+        # candidates = []
+        #
+        # # apply inverse semantics to obtain symbolic output table and vis programs
+        # abstract_designs = VisDesign.inv_eval(full_trace) if backend == "vegalite" else MatplotlibChart.inv_eval(full_trace)
+        # # print(abstract_designs)
+        #
+        # # sort pairs based on complexity of tables
+        # abstract_designs.sort(key=lambda x: len(x[0].values[0]) if not isinstance(x[0], (list,)) else sum([len(y.values[0]) for y in x[0]]))
 
-        # apply inverse semantics to obtain symbolic output table and vis programs
-        abstract_designs = VisDesign.inv_eval(full_trace) if backend == "vegalite" else MatplotlibChart.inv_eval(full_trace)
+        # pprint(outputs)
+        # pprint(inputs)
+        # exit()
+        import symbolic
+        full_sym_data = symbolic.SymTable(outputs)
+        logging.info("")
+        sample_output = eval_utils.sample_symbolic_table(full_sym_data, num_samples)
 
-        # sort pairs based on complexity of tables
-        abstract_designs.sort(key=lambda x: len(x[0].values[0]) if not isinstance(x[0], (list,)) else sum([len(y.values[0]) for y in x[0]]))
+        candidate_progs = morpheus.synthesize(inputs, sample_output, full_sym_data, prune, extra_consts=extra_consts)
+        return candidate_progs
 
         for full_sym_data, chart in abstract_designs:
-
+            import glog
+            logging.info("")
+            pprint(type(full_sym_data.values))
+            pprint(full_sym_data.values)
+            pprint(type(full_sym_data.constraints))
+            pprint(full_sym_data.constraints)
+            pprint(chart)
+            #exit()
             if not isinstance(full_sym_data, (list,)):
-                sample_output = eval_utils.sample_symbolic_table(full_sym_data, num_samples)
 
+                logging.info("")
+                sample_output = eval_utils.sample_symbolic_table(full_sym_data, num_samples)
+                # pprint(sample_output)
+                # exit()
                 # single-layer chart
                 candidate_progs = morpheus.synthesize(inputs, sample_output, full_sym_data, prune, extra_consts=extra_consts)
-
+                return candidate_progs
+                #  xprint(candidate_progs)
+                #exit()
                 for p in candidate_progs:
                     #pprint(inputs[0])
                     output = morpheus.evaluate(p, inputs)
@@ -57,7 +82,7 @@ class FalxEvalInterface(object):
                     # pprint(full_sym_data.values)
                     # mapping = synth_utils.align_table_schema(full_sym_data.values, output)
                     # print(mapping)
-                  
+
                     field_mapping = synth_utils.align_table_schema(full_sym_data.values, output)
                     assert(field_mapping != None)
 
@@ -84,8 +109,18 @@ class FalxEvalInterface(object):
                     sample_table = eval_utils.sample_symbolic_table(full_output, num_samples)
                     sym_tables.append((sample_table, full_output))
 
-                layer_candidate_progs = [morpheus.synthesize(inputs, p[0], p[1], prune, extra_consts=extra_consts) for p in sym_tables]
+                    logging.info("")
+                    pprint(sym_tables)
 
+                exit()
+
+                layer_candidate_progs = [morpheus.synthesize(inputs, p[0], p[1], prune, extra_consts=extra_consts) for p in sym_tables]
+                # for p in sym_tables:
+                #     pprint(p[0].values)
+                #     # pprint(p[1].values)
+                # exit()
+                # pprint(layer_candidate_progs)
+                # exit()
                 # iterating over combinations for different layers
                 layer_id_lists = [list(range(len(l))) for l in layer_candidate_progs]
                 for layer_id_choices in itertools.product(*layer_id_lists):

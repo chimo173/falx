@@ -1,0 +1,142 @@
+[
+    {
+        "label": "Label1",
+        "variable": "mutate_a",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 1.0
+        }
+    },
+    {
+        "label": "Label2",
+        "variable": "mutate_a",
+        "value": {
+            "ids": [],
+            "v": 0.5
+        }
+    },
+    {
+        "label": "Label3",
+        "variable": "mutate_a",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 0.6
+        }
+    },
+    {
+        "label": "Label4",
+        "variable": "mutate_a",
+        "value": {
+            "ids": [],
+            "v": 0.1
+        }
+    },
+    {
+        "label": "Label5",
+        "variable": "mutate_a",
+        "value": {
+            "ids": [],
+            "v": 0.6
+        }
+    },
+    {
+        "label": "Label6",
+        "variable": "mutate_a",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 0.1
+        }
+    },
+    {
+        "label": "Label7",
+        "variable": "mutate_a",
+        "value": {
+            "ids": [],
+            "v": 0.2
+        }
+    },
+    {
+        "label": "Label8",
+        "variable": "mutate_a",
+        "value": {
+            "ids": [],
+            "v": 0.2
+        }
+    },
+    {
+        "label": "Label1",
+        "variable": "ok",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 0.0
+        }
+    },
+    {
+        "label": "Label2",
+        "variable": "ok",
+        "value": {
+            "ids": [],
+            "v": 0.5
+        }
+    },
+    {
+        "label": "Label3",
+        "variable": "ok",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 0.4
+        }
+    },
+    {
+        "label": "Label4",
+        "variable": "ok",
+        "value": {
+            "ids": [],
+            "v": 0.9
+        }
+    },
+    {
+        "label": "Label5",
+        "variable": "ok",
+        "value": {
+            "ids": [],
+            "v": 0.4
+        }
+    },
+    {
+        "label": "Label6",
+        "variable": "ok",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 0.9
+        }
+    },
+    {
+        "label": "Label7",
+        "variable": "ok",
+        "value": {
+            "ids": [],
+            "v": 0.8
+        }
+    },
+    {
+        "label": "Label8",
+        "variable": "ok",
+        "value": {
+            "ids": [],
+            "v": 0.8
+        }
+    }
+]

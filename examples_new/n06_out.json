@@ -1,0 +1,249 @@
+[
+    {
+        "cut": "Good",
+        "color": "E",
+        "clarity": "SI1",
+        "aver": {
+            "ids": [],
+            "v": 2786.0
+        },
+        "rank1": {
+            "ids": [],
+            "v": 1.0
+        },
+        "rank2": {
+            "ids": [],
+            "v": 0.5
+        }
+    },
+    {
+        "cut": "Good",
+        "color": "E",
+        "clarity": "SI2",
+        "aver": {
+            "ids": [],
+            "v": 3401.0
+        },
+        "rank1": {
+            "ids": [],
+            "v": 2.0
+        },
+        "rank2": {
+            "ids": [],
+            "v": 1.0
+        }
+    },
+    {
+        "cut": "Good",
+        "color": "I",
+        "clarity": "SI1",
+        "aver": {
+            "ids": [],
+            "v": 3959.0
+        },
+        "rank1": {
+            "ids": [],
+            "v": 2.0
+        },
+        "rank2": {
+            "ids": [],
+            "v": 1.0
+        }
+    },
+    {
+        "cut": "Good",
+        "color": "I",
+        "clarity": "SI2",
+        "aver": {
+            "ids": [],
+            "v": 3061.0
+        },
+        "rank1": {
+            "ids": [],
+            "v": 1.0
+        },
+        "rank2": {
+            "ids": [],
+            "v": 0.5
+        }
+    },
+    {
+        "cut": "Good",
+        "color": "J",
+        "clarity": "SI2",
+        "aver": {
+            "ids": [],
+            "v": 3639.0
+        },
+        "rank1": {
+            "ids": [],
+            "v": 1.0
+        },
+        "rank2": {
+            "ids": [],
+            "v": 1.0
+        }
+    },
+    {
+        "cut": "Ideal",
+        "color": "E",
+        "clarity": "SI1",
+        "aver": {
+            "ids": [
+                1
+            ],
+            "v": 1864.2
+        },
+        "rank1": {
+            "ids": [
+                1
+            ],
+            "v": 1.0
+        },
+        "rank2": {
+            "ids": [
+                1
+            ],
+            "v": 0.5
+        }
+    },
+    {
+        "cut": "Ideal",
+        "color": "E",
+        "clarity": "SI2",
+        "aver": {
+            "ids": [],
+            "v": 4387.0
+        },
+        "rank1": {
+            "ids": [
+                1
+            ],
+            "v": 2.0
+        },
+        "rank2": {
+            "ids": [
+                1
+            ],
+            "v": 1.0
+        }
+    },
+    {
+        "cut": "Ideal",
+        "color": "I",
+        "clarity": "SI1",
+        "aver": {
+            "ids": [],
+            "v": 982.0
+        },
+        "rank1": {
+            "ids": [],
+            "v": 1.0
+        },
+        "rank2": {
+            "ids": [],
+            "v": 0.5
+        }
+    },
+    {
+        "cut": "Ideal",
+        "color": "I",
+        "clarity": "SI2",
+        "aver": {
+            "ids": [],
+            "v": 5335.5
+        },
+        "rank1": {
+            "ids": [],
+            "v": 2.0
+        },
+        "rank2": {
+            "ids": [],
+            "v": 1.0
+        }
+    },
+    {
+        "cut": "Ideal",
+        "color": "J",
+        "clarity": "SI1",
+        "aver": {
+            "ids": [],
+            "v": 8187.0
+        },
+        "rank1": {
+            "ids": [],
+            "v": 1.0
+        },
+        "rank2": {
+            "ids": [],
+            "v": 1.0
+        }
+    },
+    {
+        "cut": "Premium",
+        "color": "E",
+        "clarity": "SI1",
+        "aver": {
+            "ids": [
+                2
+            ],
+            "v": 4614.8
+        },
+        "rank1": {
+            "ids": [
+                0,
+                2
+            ],
+            "v": 2.0
+        },
+        "rank2": {
+            "ids": [
+                0,
+                2
+            ],
+            "v": 1.0
+        }
+    },
+    {
+        "cut": "Premium",
+        "color": "E",
+        "clarity": "SI2",
+        "aver": {
+            "ids": [
+                0
+            ],
+            "v": 662.5
+        },
+        "rank1": {
+            "ids": [
+                0,
+                2
+            ],
+            "v": 1.0
+        },
+        "rank2": {
+            "ids": [
+                0,
+                2
+            ],
+            "v": 0.5
+        }
+    },
+    {
+        "cut": "Premium",
+        "color": "I",
+        "clarity": "SI2",
+        "aver": {
+            "ids": [],
+            "v": 4735.0
+        },
+        "rank1": {
+            "ids": [],
+            "v": 1.0
+        },
+        "rank2": {
+            "ids": [],
+            "v": 1.0
+        }
+    }
+]

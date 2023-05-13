@@ -1,0 +1,482 @@
+[
+    {
+        "Category": "HOME APPLIANCES",
+        "TOTAL": {
+            "ids": [
+                0
+            ],
+            "v": 645
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 451
+        }
+    },
+    {
+        "Category": "COMPUTERS",
+        "TOTAL": {
+            "ids": [
+                1
+            ],
+            "v": 568
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 394
+        }
+    },
+    {
+        "Category": "CAMERAS & CAMCORDERS",
+        "TOTAL": {
+            "ids": [
+                2
+            ],
+            "v": 355
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 245
+        }
+    },
+    {
+        "Category": "CELL PHONES",
+        "TOTAL": {
+            "ids": [
+                3
+            ],
+            "v": 265
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 185
+        }
+    },
+    {
+        "Category": "TV & VIDEO",
+        "TOTAL": {
+            "ids": [],
+            "v": 205
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [],
+            "v": 143
+        }
+    },
+    {
+        "Category": "GAMES & TOYS",
+        "TOTAL": {
+            "ids": [
+                5
+            ],
+            "v": 166
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 101
+        }
+    },
+    {
+        "Category": "AUDIO",
+        "TOTAL": {
+            "ids": [
+                6
+            ],
+            "v": 100
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 66
+        }
+    },
+    {
+        "Category": "MUSIC, MOVIES & AUDIO BOOKS",
+        "TOTAL": {
+            "ids": [],
+            "v": 90
+        },
+        "variable": "<-10%",
+        "value": {
+            "ids": [],
+            "v": 75
+        }
+    },
+    {
+        "Category": "HOME APPLIANCES",
+        "TOTAL": {
+            "ids": [
+                0
+            ],
+            "v": 645
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 506
+        }
+    },
+    {
+        "Category": "COMPUTERS",
+        "TOTAL": {
+            "ids": [
+                1
+            ],
+            "v": 568
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 450
+        }
+    },
+    {
+        "Category": "CAMERAS & CAMCORDERS",
+        "TOTAL": {
+            "ids": [
+                2
+            ],
+            "v": 355
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 261
+        }
+    },
+    {
+        "Category": "CELL PHONES",
+        "TOTAL": {
+            "ids": [
+                3
+            ],
+            "v": 265
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 202
+        }
+    },
+    {
+        "Category": "TV & VIDEO",
+        "TOTAL": {
+            "ids": [],
+            "v": 205
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [],
+            "v": 160
+        }
+    },
+    {
+        "Category": "GAMES & TOYS",
+        "TOTAL": {
+            "ids": [
+                5
+            ],
+            "v": 166
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 132
+        }
+    },
+    {
+        "Category": "AUDIO",
+        "TOTAL": {
+            "ids": [
+                6
+            ],
+            "v": 100
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 81
+        }
+    },
+    {
+        "Category": "MUSIC, MOVIES & AUDIO BOOKS",
+        "TOTAL": {
+            "ids": [],
+            "v": 90
+        },
+        "variable": "<0%",
+        "value": {
+            "ids": [],
+            "v": 64
+        }
+    },
+    {
+        "Category": "HOME APPLIANCES",
+        "TOTAL": {
+            "ids": [
+                0
+            ],
+            "v": 645
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 464
+        }
+    },
+    {
+        "Category": "COMPUTERS",
+        "TOTAL": {
+            "ids": [
+                1
+            ],
+            "v": 568
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 395
+        }
+    },
+    {
+        "Category": "CAMERAS & CAMCORDERS",
+        "TOTAL": {
+            "ids": [
+                2
+            ],
+            "v": 355
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 272
+        }
+    },
+    {
+        "Category": "CELL PHONES",
+        "TOTAL": {
+            "ids": [
+                3
+            ],
+            "v": 265
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 196
+        }
+    },
+    {
+        "Category": "TV & VIDEO",
+        "TOTAL": {
+            "ids": [],
+            "v": 205
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [],
+            "v": 149
+        }
+    },
+    {
+        "Category": "GAMES & TOYS",
+        "TOTAL": {
+            "ids": [
+                5
+            ],
+            "v": 166
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 124
+        }
+    },
+    {
+        "Category": "AUDIO",
+        "TOTAL": {
+            "ids": [
+                6
+            ],
+            "v": 100
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 66
+        }
+    },
+    {
+        "Category": "MUSIC, MOVIES & AUDIO BOOKS",
+        "TOTAL": {
+            "ids": [],
+            "v": 90
+        },
+        "variable": ">10%",
+        "value": {
+            "ids": [],
+            "v": 61
+        }
+    },
+    {
+        "Category": "HOME APPLIANCES",
+        "TOTAL": {
+            "ids": [
+                0
+            ],
+            "v": 645
+        },
+        "variable": ">=0%",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 514
+        }
+    },
+    {
+        "Category": "COMPUTERS",
+        "TOTAL": {
+            "ids": [
+                1
+            ],
+            "v": 568
+        },
+        "variable": ">=0%",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 465
+        }
+    },
+    {
+        "Category": "CAMERAS & CAMCORDERS",
+        "TOTAL": {
+            "ids": [
+                2
+            ],
+            "v": 355
+        },
+        "variable": ">=0%",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 287
+        }
+    },
+    {
+        "Category": "CELL PHONES",
+        "TOTAL": {
+            "ids": [
+                3
+            ],
+            "v": 265
+        },
+        "variable": ">=0%",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 212
+        }
+    },
+    {
+        "Category": "TV & VIDEO",
+        "TOTAL": {
+            "ids": [],
+            "v": 205
+        },
+        "variable": ">=0%",
+        "value": {
+            "ids": [],
+            "v": 163
+        }
+    },
+    {
+        "Category": "GAMES & TOYS",
+        "TOTAL": {
+            "ids": [
+                5
+            ],
+            "v": 166
+        },
+        "variable": ">=0%",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 141
+        }
+    },
+    {
+        "Category": "AUDIO",
+        "TOTAL": {
+            "ids": [
+                6
+            ],
+            "v": 100
+        },
+        "variable": ">=0%",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 87
+        }
+    },
+    {
+        "Category": "MUSIC, MOVIES & AUDIO BOOKS",
+        "TOTAL": {
+            "ids": [],
+            "v": 90
+        },
+        "variable": ">=0%",
+        "value": {
+            "ids": [],
+            "v": 70
+        }
+    }
+]

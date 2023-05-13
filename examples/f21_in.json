@@ -1,0 +1,58 @@
+[
+    {
+        "Country": "Australia",
+        "Beans": 14433,
+        "Broccoli": 17953,
+        "Carrots": 8106,
+        "Total Result": 40492
+    },
+    {
+        "Country": "Canada",
+        "Beans": 0,
+        "Broccoli": 12407,
+        "Carrots": 0,
+        "Total Result": 12407
+    },
+    {
+        "Country": "France",
+        "Beans": 680,
+        "Broccoli": 5341,
+        "Carrots": 9104,
+        "Total Result": 15125
+    },
+    {
+        "Country": "Germany",
+        "Beans": 29905,
+        "Broccoli": 37197,
+        "Carrots": 21636,
+        "Total Result": 88738
+    },
+    {
+        "Country": "New Zealand",
+        "Beans": 0,
+        "Broccoli": 4390,
+        "Carrots": 0,
+        "Total Result": 4390
+    },
+    {
+        "Country": "United Kingdom",
+        "Beans": 5100,
+        "Broccoli": 38436,
+        "Carrots": 41815,
+        "Total Result": 85351
+    },
+    {
+        "Country": "United States",
+        "Beans": 7163,
+        "Broccoli": 26715,
+        "Carrots": 56284,
+        "Total Result": 90162
+    },
+    {
+        "Country": "Total Result",
+        "Beans": 57281,
+        "Broccoli": 142439,
+        "Carrots": 136945,
+        "Total Result": 336665
+    }
+]

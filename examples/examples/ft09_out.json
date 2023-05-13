@@ -1,0 +1,262 @@
+[
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2010-1",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 813
+        }
+    },
+    {
+        "Group": "Group_3",
+        "Venditor": "Vendor_8",
+        "variable": "2010-1",
+        "value": {
+            "ids": [],
+            "v": 706
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2010-2",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 194
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_3",
+        "variable": "2010-2",
+        "value": {
+            "ids": [],
+            "v": 171
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_4",
+        "variable": "2010-2",
+        "value": {
+            "ids": [],
+            "v": 653
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_6",
+        "variable": "2010-2",
+        "value": {
+            "ids": [],
+            "v": 242
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_1",
+        "variable": "2010-3",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 937
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_5",
+        "variable": "2010-3",
+        "value": {
+            "ids": [],
+            "v": 670
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_6",
+        "variable": "2010-3",
+        "value": {
+            "ids": [],
+            "v": 309
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_7",
+        "variable": "2010-3",
+        "value": {
+            "ids": [],
+            "v": 447
+        }
+    },
+    {
+        "Group": "Group_3",
+        "Venditor": "Vendor_10",
+        "variable": "2010-3",
+        "value": {
+            "ids": [],
+            "v": 727
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_5",
+        "variable": "2010-4",
+        "value": {
+            "ids": [],
+            "v": 561
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_4",
+        "variable": "2011-1",
+        "value": {
+            "ids": [],
+            "v": 149
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_5",
+        "variable": "2011-1",
+        "value": {
+            "ids": [],
+            "v": 385
+        }
+    },
+    {
+        "Group": "Group_3",
+        "Venditor": "Vendor_8",
+        "variable": "2011-1",
+        "value": {
+            "ids": [],
+            "v": 347
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_3",
+        "variable": "2011-2",
+        "value": {
+            "ids": [],
+            "v": 598
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_4",
+        "variable": "2011-2",
+        "value": {
+            "ids": [],
+            "v": 656
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_5",
+        "variable": "2011-2",
+        "value": {
+            "ids": [],
+            "v": 178
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_6",
+        "variable": "2011-2",
+        "value": {
+            "ids": [],
+            "v": 337
+        }
+    },
+    {
+        "Group": "Group_3",
+        "Venditor": "Vendor_9",
+        "variable": "2011-2",
+        "value": {
+            "ids": [],
+            "v": 904
+        }
+    },
+    {
+        "Group": "Group_3",
+        "Venditor": "Vendor_10",
+        "variable": "2011-2",
+        "value": {
+            "ids": [],
+            "v": 847
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_3",
+        "variable": "2011-3",
+        "value": {
+            "ids": [],
+            "v": 651
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_6",
+        "variable": "2011-3",
+        "value": {
+            "ids": [],
+            "v": 701
+        }
+    },
+    {
+        "Group": "Group_3",
+        "Venditor": "Vendor_8",
+        "variable": "2011-3",
+        "value": {
+            "ids": [],
+            "v": 121
+        }
+    },
+    {
+        "Group": "Group_3",
+        "Venditor": "Vendor_9",
+        "variable": "2011-4",
+        "value": {
+            "ids": [],
+            "v": 419
+        }
+    },
+    {
+        "Group": "Group_1",
+        "Venditor": "Vendor_2",
+        "variable": "2012-1",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 771
+        }
+    },
+    {
+        "Group": "Group_2",
+        "Venditor": "Vendor_5",
+        "variable": "2012-1",
+        "value": {
+            "ids": [],
+            "v": 983
+        }
+    },
+    {
+        "Group": "Group_3",
+        "Venditor": "Vendor_10",
+        "variable": "2012-1",
+        "value": {
+            "ids": [],
+            "v": 595
+        }
+    }
+]

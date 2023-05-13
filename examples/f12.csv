@@ -1,0 +1,13 @@
+C1,C2,North_America,EMEA,APAC,LATAM
+Q1,Targeted,56,66,48,48
+Q1,Engaged,52,65,47,48
+Q1,Pitched,45,59,45,44
+Q1,Adopted,36,52,38,31
+Q2,Targeted,50,56,39,43
+Q2,Engaged,43,54,37,41
+Q2,Pitched,39,50,35,37
+Q2,Adopted,31,42,27,26
+Q3,Targeted,70,91,87,95
+Q3,Engaged,55,78,75,80
+Q3,Pitched,50,72,74,73
+Q3,Adopted,40,62,59,53

@@ -1,0 +1,77 @@
+[
+    {
+        "Day": "11/10/2013",
+        "Hour": "9:00",
+        "Temperature": 6
+    },
+    {
+        "Day": "11/10/2013",
+        "Hour": "10:00",
+        "Temperature": 11
+    },
+    {
+        "Day": "11/10/2013",
+        "Hour": "11:00",
+        "Temperature": 13
+    },
+    {
+        "Day": "11/10/2013",
+        "Hour": "12:00",
+        "Temperature": 6
+    },
+    {
+        "Day": "11/10/2013",
+        "Hour": "13:00",
+        "Temperature": 8
+    },
+    {
+        "Day": "12/10/2013",
+        "Hour": "9:00",
+        "Temperature": 7
+    },
+    {
+        "Day": "12/10/2013",
+        "Hour": "10:00",
+        "Temperature": 8
+    },
+    {
+        "Day": "12/10/2013",
+        "Hour": "11:00",
+        "Temperature": 11
+    },
+    {
+        "Day": "12/10/2013",
+        "Hour": "12:00",
+        "Temperature": 18
+    },
+    {
+        "Day": "12/10/2013",
+        "Hour": "13:00",
+        "Temperature": 12
+    },
+    {
+        "Day": "13/10/2013",
+        "Hour": "9:00",
+        "Temperature": 15
+    },
+    {
+        "Day": "13/10/2013",
+        "Hour": "10:00",
+        "Temperature": 8
+    },
+    {
+        "Day": "13/10/2013",
+        "Hour": "11:00",
+        "Temperature": 11
+    },
+    {
+        "Day": "13/10/2013",
+        "Hour": "12:00",
+        "Temperature": 16
+    },
+    {
+        "Day": "13/10/2013",
+        "Hour": "13:00",
+        "Temperature": 9
+    }
+]

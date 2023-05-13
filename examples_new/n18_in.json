@@ -1,0 +1,62 @@
+[
+    {
+        "Year": 2001,
+        "StockValue": 0.93
+    },
+    {
+        "Year": 2002,
+        "StockValue": 0.32
+    },
+    {
+        "Year": 2003,
+        "StockValue": 0.24
+    },
+    {
+        "Year": 2004,
+        "StockValue": 0.53
+    },
+    {
+        "Year": 2005,
+        "StockValue": 0.43
+    },
+    {
+        "Year": 2006,
+        "StockValue": 0.53
+    },
+    {
+        "Year": 2007,
+        "StockValue": 0.43
+    },
+    {
+        "Year": 2008,
+        "StockValue": 0.58
+    },
+    {
+        "Year": 2009,
+        "StockValue": 0.31
+    },
+    {
+        "Year": 2010,
+        "StockValue": 0.52
+    },
+    {
+        "Year": 2011,
+        "StockValue": 0.49
+    },
+    {
+        "Year": 2012,
+        "StockValue": 0.27
+    },
+    {
+        "Year": 2013,
+        "StockValue": 0.34
+    },
+    {
+        "Year": 2014,
+        "StockValue": 0.48
+    },
+    {
+        "Year": 2015,
+        "StockValue": 0.45
+    }
+]

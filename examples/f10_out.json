@@ -1,0 +1,98 @@
+[
+    {
+        "Class": "Literacy",
+        "variable": "Fall",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 34
+        }
+    },
+    {
+        "Class": "Language",
+        "variable": "Fall",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 63
+        }
+    },
+    {
+        "Class": "Math",
+        "variable": "Fall",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 67
+        }
+    },
+    {
+        "Class": "Science",
+        "variable": "Fall",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 92
+        }
+    },
+    {
+        "Class": "Arts",
+        "variable": "Fall",
+        "value": {
+            "ids": [],
+            "v": 96
+        }
+    },
+    {
+        "Class": "Literacy",
+        "variable": "Spring",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 69
+        }
+    },
+    {
+        "Class": "Language",
+        "variable": "Spring",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 77
+        }
+    },
+    {
+        "Class": "Math",
+        "variable": "Spring",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 75
+        }
+    },
+    {
+        "Class": "Science",
+        "variable": "Spring",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 98
+        }
+    },
+    {
+        "Class": "Arts",
+        "variable": "Spring",
+        "value": {
+            "ids": [],
+            "v": 100
+        }
+    }
+]

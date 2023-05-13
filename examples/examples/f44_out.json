@@ -1,0 +1,122 @@
+[
+    {
+        "Species": "setosa",
+        "variable": "Petal.Length",
+        "value": {
+            "ids": [
+                0,
+                2,
+                5
+            ],
+            "v": 722
+        }
+    },
+    {
+        "Species": "setosa",
+        "variable": "Petal.Width",
+        "value": {
+            "ids": [
+                0,
+                2,
+                5
+            ],
+            "v": 123
+        }
+    },
+    {
+        "Species": "setosa",
+        "variable": "Sepal.Length",
+        "value": {
+            "ids": [
+                0,
+                2,
+                5
+            ],
+            "v": 2143
+        }
+    },
+    {
+        "Species": "setosa",
+        "variable": "Sepal.Width",
+        "value": {
+            "ids": [
+                0,
+                2,
+                5
+            ],
+            "v": 1516
+        }
+    },
+    {
+        "Species": "versicolor",
+        "variable": "Petal.Length",
+        "value": {
+            "ids": [
+                50
+            ],
+            "v": 1878
+        }
+    },
+    {
+        "Species": "versicolor",
+        "variable": "Petal.Width",
+        "value": {
+            "ids": [
+                50
+            ],
+            "v": 600
+        }
+    },
+    {
+        "Species": "versicolor",
+        "variable": "Sepal.Length",
+        "value": {
+            "ids": [
+                50
+            ],
+            "v": 2599
+        }
+    },
+    {
+        "Species": "versicolor",
+        "variable": "Sepal.Width",
+        "value": {
+            "ids": [
+                50
+            ],
+            "v": 1151
+        }
+    },
+    {
+        "Species": "virginica",
+        "variable": "Petal.Length",
+        "value": {
+            "ids": [],
+            "v": 2533
+        }
+    },
+    {
+        "Species": "virginica",
+        "variable": "Petal.Width",
+        "value": {
+            "ids": [],
+            "v": 905
+        }
+    },
+    {
+        "Species": "virginica",
+        "variable": "Sepal.Length",
+        "value": {
+            "ids": [],
+            "v": 3186
+        }
+    },
+    {
+        "Species": "virginica",
+        "variable": "Sepal.Width",
+        "value": {
+            "ids": [],
+            "v": 1163
+        }
+    }
+]

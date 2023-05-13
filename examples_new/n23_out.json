@@ -1,0 +1,63 @@
+[
+    {
+        "Type": "Sal",
+        "Category1": "1",
+        "n1": {
+            "ids": [
+                3
+            ],
+            "v": 6
+        }
+    },
+    {
+        "Type": "Self",
+        "Category1": "1",
+        "n1": {
+            "ids": [
+                1
+            ],
+            "v": 1
+        }
+    },
+    {
+        "Type": "Sal",
+        "Category1": "0",
+        "n1": {
+            "ids": [
+                0,
+                2
+            ],
+            "v": 8
+        }
+    },
+    {
+        "Type": "Self",
+        "Category1": "0",
+        "n1": {
+            "ids": [],
+            "v": 5
+        }
+    },
+    {
+        "Type": "Sal",
+        "Category1": "Total",
+        "n1": {
+            "ids": [
+                0,
+                2,
+                3
+            ],
+            "v": 14
+        }
+    },
+    {
+        "Type": "Self",
+        "Category1": "Total",
+        "n1": {
+            "ids": [
+                1
+            ],
+            "v": 6
+        }
+    }
+]

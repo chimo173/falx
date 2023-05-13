@@ -1,0 +1,542 @@
+[
+    {
+        "Month": "Apr-15",
+        "variable": "West",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 63.0
+        }
+    },
+    {
+        "Month": "May-15",
+        "variable": "West",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 58.9
+        }
+    },
+    {
+        "Month": "Jun-15",
+        "variable": "West",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 81.6
+        }
+    },
+    {
+        "Month": "Jul-15",
+        "variable": "West",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 86.1
+        }
+    },
+    {
+        "Month": "Aug-15",
+        "variable": "West",
+        "value": {
+            "ids": [],
+            "v": 95.0
+        }
+    },
+    {
+        "Month": "Sep-15",
+        "variable": "West",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 78.2
+        }
+    },
+    {
+        "Month": "Oct-15",
+        "variable": "West",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 98.9
+        }
+    },
+    {
+        "Month": "Nov-15",
+        "variable": "West",
+        "value": {
+            "ids": [],
+            "v": 88.3
+        }
+    },
+    {
+        "Month": "Dec-15",
+        "variable": "West",
+        "value": {
+            "ids": [],
+            "v": 75.5
+        }
+    },
+    {
+        "Month": "Jan-16",
+        "variable": "West",
+        "value": {
+            "ids": [],
+            "v": 72.1
+        }
+    },
+    {
+        "Month": "Feb-16",
+        "variable": "West",
+        "value": {
+            "ids": [],
+            "v": 93.1
+        }
+    },
+    {
+        "Month": "Mar-16",
+        "variable": "West",
+        "value": {
+            "ids": [],
+            "v": 95.7
+        }
+    },
+    {
+        "Month": "Apr-15",
+        "variable": "East",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 86.4
+        }
+    },
+    {
+        "Month": "May-15",
+        "variable": "East",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 45.8
+        }
+    },
+    {
+        "Month": "Jun-15",
+        "variable": "East",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 44.1
+        }
+    },
+    {
+        "Month": "Jul-15",
+        "variable": "East",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 77.6
+        }
+    },
+    {
+        "Month": "Aug-15",
+        "variable": "East",
+        "value": {
+            "ids": [],
+            "v": 80.7
+        }
+    },
+    {
+        "Month": "Sep-15",
+        "variable": "East",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 83.7
+        }
+    },
+    {
+        "Month": "Oct-15",
+        "variable": "East",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 78.8
+        }
+    },
+    {
+        "Month": "Nov-15",
+        "variable": "East",
+        "value": {
+            "ids": [],
+            "v": 76.0
+        }
+    },
+    {
+        "Month": "Dec-15",
+        "variable": "East",
+        "value": {
+            "ids": [],
+            "v": 79.0
+        }
+    },
+    {
+        "Month": "Jan-16",
+        "variable": "East",
+        "value": {
+            "ids": [],
+            "v": 77.0
+        }
+    },
+    {
+        "Month": "Feb-16",
+        "variable": "East",
+        "value": {
+            "ids": [],
+            "v": 67.1
+        }
+    },
+    {
+        "Month": "Mar-16",
+        "variable": "East",
+        "value": {
+            "ids": [],
+            "v": 45.8
+        }
+    },
+    {
+        "Month": "Apr-15",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 50
+        }
+    },
+    {
+        "Month": "May-15",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Jun-15",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Jul-15",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Aug-15",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Sep-15",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Oct-15",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Nov-15",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Dec-15",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Jan-16",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Feb-16",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Mar-16",
+        "variable": "Low (<50%}",
+        "value": {
+            "ids": [],
+            "v": 50
+        }
+    },
+    {
+        "Month": "Apr-15",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 30
+        }
+    },
+    {
+        "Month": "May-15",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Jun-15",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Jul-15",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Aug-15",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Sep-15",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Oct-15",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Nov-15",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Dec-15",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Jan-16",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Feb-16",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Mar-16",
+        "variable": "Medium (50%-80%}",
+        "value": {
+            "ids": [],
+            "v": 30
+        }
+    },
+    {
+        "Month": "Apr-15",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 20
+        }
+    },
+    {
+        "Month": "May-15",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Jun-15",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Jul-15",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Aug-15",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Sep-15",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Oct-15",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [
+                6
+            ],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Nov-15",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Dec-15",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Jan-16",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Feb-16",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [],
+            "v": 20
+        }
+    },
+    {
+        "Month": "Mar-16",
+        "variable": "High (>80%)",
+        "value": {
+            "ids": [],
+            "v": 20
+        }
+    }
+]

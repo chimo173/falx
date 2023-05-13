@@ -1,0 +1,17 @@
+label,variable,value
+Label1,ok,0.0
+Label2,ok,0.5
+Label3,ok,0.4
+Label4,ok,0.9
+Label5,ok,0.4
+Label6,ok,0.9
+Label7,ok,0.8
+Label8,ok,0.8
+Label1,mutate_a,1.0
+Label2,mutate_a,0.5
+Label3,mutate_a,0.6
+Label4,mutate_a,0.1
+Label5,mutate_a,0.6
+Label6,mutate_a,0.1
+Label7,mutate_a,0.2
+Label8,mutate_a,0.2

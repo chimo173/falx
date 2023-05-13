@@ -1,0 +1,10 @@
+Group,Venditor,variable,value,cumsum
+Group_1,Vendor_1,2010-1,813,813
+Group_1,Vendor_1,2010-2,194,1007
+Group_1,Vendor_1,2010-3,937,1944
+Group_1,Vendor_1,2010-4,719,2663
+Group_1,Vendor_1,2011-1,840,3503
+Group_1,Vendor_1,2011-2,322,3825
+Group_1,Vendor_1,2011-3,326,4151
+Group_1,Vendor_1,2011-4,567,4718
+Group_1,Vendor_1,2012-1,333,5051

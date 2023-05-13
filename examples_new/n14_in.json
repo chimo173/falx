@@ -1,0 +1,62 @@
+[
+    {
+        "location": "location1",
+        "asset_status": "Owned",
+        "count": 1,
+        "row": 1
+    },
+    {
+        "location": "location1",
+        "asset_status": "Available",
+        "count": 1,
+        "row": 2
+    },
+    {
+        "location": "location1",
+        "asset_status": "Owned",
+        "count": 1,
+        "row": 3
+    },
+    {
+        "location": "location2",
+        "asset_status": "Owned",
+        "count": 1,
+        "row": 4
+    },
+    {
+        "location": "location2",
+        "asset_status": "Owned",
+        "count": 1,
+        "row": 5
+    },
+    {
+        "location": "location2",
+        "asset_status": "Owned",
+        "count": 1,
+        "row": 6
+    },
+    {
+        "location": "location2",
+        "asset_status": "Owned",
+        "count": 1,
+        "row": 7
+    },
+    {
+        "location": "location2",
+        "asset_status": "no status",
+        "count": 1,
+        "row": 8
+    },
+    {
+        "location": "location3",
+        "asset_status": "Owned",
+        "count": 1,
+        "row": 9
+    },
+    {
+        "location": "location3",
+        "asset_status": "Owned",
+        "count": 1,
+        "row": 10
+    }
+]

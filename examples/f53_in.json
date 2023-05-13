@@ -1,0 +1,62 @@
+[
+    {
+        "date": "9/1/11",
+        "classes": "french",
+        "score": 34
+    },
+    {
+        "date": "9/1/11",
+        "classes": "english",
+        "score": 34
+    },
+    {
+        "date": "9/1/11",
+        "classes": "french",
+        "score": 34
+    },
+    {
+        "date": "9/1/11",
+        "classes": "spanish",
+        "score": 34
+    },
+    {
+        "date": "9/2/11",
+        "classes": "french",
+        "score": 34
+    },
+    {
+        "date": "9/2/11",
+        "classes": "english",
+        "score": 34
+    },
+    {
+        "date": "9/3/11",
+        "classes": "spanish",
+        "score": 34
+    },
+    {
+        "date": "9/3/11",
+        "classes": "spanish",
+        "score": 34
+    },
+    {
+        "date": "9/5/11",
+        "classes": "spanish",
+        "score": 34
+    },
+    {
+        "date": "9/5/11",
+        "classes": "english",
+        "score": 34
+    },
+    {
+        "date": "9/5/11",
+        "classes": "french",
+        "score": 34
+    },
+    {
+        "date": "9/5/11",
+        "classes": "english",
+        "score": 34
+    }
+]

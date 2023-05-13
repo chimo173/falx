@@ -1,0 +1,118 @@
+[
+    {
+        "Age": "0-18",
+        "variable": "FEMALE 37%",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 3
+        }
+    },
+    {
+        "Age": "18-24",
+        "variable": "FEMALE 37%",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 8
+        }
+    },
+    {
+        "Age": "25-34",
+        "variable": "FEMALE 37%",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 13
+        }
+    },
+    {
+        "Age": "35-44",
+        "variable": "FEMALE 37%",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 5
+        }
+    },
+    {
+        "Age": "24-54",
+        "variable": "FEMALE 37%",
+        "value": {
+            "ids": [],
+            "v": 5
+        }
+    },
+    {
+        "Age": "55+",
+        "variable": "FEMALE 37%",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 3
+        }
+    },
+    {
+        "Age": "0-18",
+        "variable": "MALE 63%",
+        "value": {
+            "ids": [
+                0
+            ],
+            "v": 6
+        }
+    },
+    {
+        "Age": "18-24",
+        "variable": "MALE 63%",
+        "value": {
+            "ids": [
+                1
+            ],
+            "v": 15
+        }
+    },
+    {
+        "Age": "25-34",
+        "variable": "MALE 63%",
+        "value": {
+            "ids": [
+                2
+            ],
+            "v": 22
+        }
+    },
+    {
+        "Age": "35-44",
+        "variable": "MALE 63%",
+        "value": {
+            "ids": [
+                3
+            ],
+            "v": 10
+        }
+    },
+    {
+        "Age": "24-54",
+        "variable": "MALE 63%",
+        "value": {
+            "ids": [],
+            "v": 6
+        }
+    },
+    {
+        "Age": "55+",
+        "variable": "MALE 63%",
+        "value": {
+            "ids": [
+                5
+            ],
+            "v": 4
+        }
+    }
+]
